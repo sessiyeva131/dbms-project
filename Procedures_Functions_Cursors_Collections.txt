@@ -1,0 +1,219 @@
+##########################--------PROCEDURES---------#######################
+
+1) PROCEDURES TO DEFINE TOP-CHART APPS
+#---Main Procedure
+create or replace procedure chart is
+cursor cat_cur is					//CURSOR which holds app_categories
+select distinct app_category 
+from app_dataset;
+TYPE t_cat IS TABLE OF cat_cur%ROWTYPE			//INDEX BY TABLE, it holds app_categories with specific indexes
+INDEX BY BINARY_INTEGER;
+v_cat_tab t_cat;
+v_count number := 1;
+v_par VARCHAR2(1000);
+plsql_block VARCHAR2(100);
+begin
+    plsql_block := 'BEGIN init(:a); END;';		//nested procedure
+    for i in cat_cur loop
+        v_cat_tab(v_count) := i;
+        v_count := v_count + 1;
+    end loop;
+    for i in 1..v_cat_tab.COUNT loop
+        v_par := v_cat_tab(i).app_category;
+        EXECUTE IMMEDIATE plsql_block USING v_par;	//Usage of Dynamic SQL	
+    end loop;
+end;
+------------------------------------------------------
+#---Helper procedure
+2) 
+create or replace procedure init(p_name varchar2) is
+    cursor apps_cur is					//CURSOR, it holds applications ordered by their rating
+    select app_name 
+    from app_dataset
+    where app_category = p_name
+    order by app_rating desc;
+    type t_apps is table of apps_cur%ROWTYPE		//INDEX BY TABLE, for further usage of their indexes
+    INDEX BY BINARY_INTEGER;
+    v_apps_tab t_apps;
+    v_count number := 1;
+begin
+    for i in apps_cur loop
+        v_apps_tab(v_count) := i;
+        v_count := v_count + 1;
+    end loop;
+    for i in 1..v_apps_tab.count loop
+        update app_dataset
+        set top_chart = i
+        where app_name = v_apps_tab(i).app_name;
+    end loop;
+end;
+==========================================================================
+3) 
+#---Procedure to define top 5 used apps
+
+create or replace procedure top(p_name varchar2) is
+top_cur sys_refcursor;					//CURSOR, it holds applications ordered by their installs number
+TYPE t_top IS TABLE OF app_dataset%ROWTYPE		//INDEX BY TABLE, for further usage of their indexes
+INDEX BY BINARY_INTEGER;
+v_top_tab t_top;
+v_count number := 1;
+l_row app_dataset%ROWTYPE;
+begin
+    OPEN top_cur FOR 'SELECT * FROM app_dataset WHERE 				//Dynamic SQL
+         content_rating = ''' || p_name || ''' order by installs desc';
+    LOOP
+    FETCH top_cur INTO l_row;
+        v_top_tab(v_count) := l_row;
+        v_count := v_count + 1;
+        if v_count > 5
+        then exit;
+        end if;
+    end loop;
+    for i in 1..v_top_tab.COUNT loop
+        update app_dataset 
+        set top_t = 3
+        where app_name = v_top_tab(i).app_name;
+    end loop;
+end;
+
+##########################--------FUNCTIONS---------########################
+1)
+##---Function which will convert chars to number
+
+CREATE OR REPLACE FUNCTION num(str varchar2) 
+   RETURN number IS 
+   res NUMBER(20);
+   str_res varchar2(30);
+   BEGIN 
+      str_res := REPLACE(str, '+');
+      str_res := REPLACE(str_res, ',');
+      str_res := REPLACE(str_res, '"');
+      res := TO_NUMBER(str_res, '9999999999');
+      RETURN res; 
+END;
+
+2)
+##---Function which will return apps for recomendation system.
+
+CREATE OR REPLACE PACKAGE rec_pkg AS					//Package, holds recommendation system's functions
+    TYPE test_tab IS TABLE OF app_dataset%ROWTYPE;
+    FUNCTION test_rec(l_where varchar2) RETURN test_tab PIPELINED;
+END;
+
+CREATE OR REPLACE PACKAGE BODY rec_pkg IS
+FUNCTION test_rec(l_where VARCHAR2) RETURN test_tab PIPELINED IS
+          cc sys_refcursor;
+          l_row app_dataset%ROWTYPE;
+       BEGIN
+         OPEN cc FOR 'SELECT * FROM app_dataset WHERE 
+         app_category in (select app_category from app_dataset where ' || l_where|| ')';		//Dynamic SQL
+          LOOP
+             FETCH cc INTO l_row;
+             EXIT WHEN cc%NOTFOUND;
+            PIPE ROW (l_row);
+         END LOOP;
+         RETURN;
+    END;
+END;
+==========================================================================================
+
+CREATE OR REPLACE PACKAGE charts_pkg AS					//Package, holds all statistic's functions
+    function getValue(p_category varchar2) return number;
+    function default_pieChart(p_name varchar2) return number;
+    function pieChart(p_name varchar2, p_category varchar2) return number;
+END;
+CREATE OR REPLACE PACKAGE BODY charts_pkg IS			//This is a package body
+    
+//-----------------------------------------------------------------------------------------
+//3)Function returns Y-value for corresponding X-value of BarChart
+
+function getValue(p_category varchar2) 			
+    return number is
+        v_val number;
+        begin
+            select count(*) into v_val
+            from app_dataset
+            where app_category = p_category
+            group by app_category;
+            return v_val;
+        end;
+
+//-------------------------------------------------------------------------------------------
+//4)Function returns value for default pieChart using specified parameter
+
+    function default_pieChart(p_name varchar2)		
+    return number is
+    v_res number;
+    v_count number;
+    v_whole number;
+    begin
+        select count(app_name)
+        into v_whole
+        from app_dataset;
+        if p_name = 'Everyone' then
+            select count(*) into v_count
+            from app_dataset
+            where content_rating = 'Everyone'
+            group by content_rating;
+        elsif p_name = 'Teen' then
+            select count(*) into v_count
+            from app_dataset
+            where content_rating = 'Teen'
+            group by content_rating;
+        else 
+            select sum(count(*)) into v_count
+            from app_dataset
+            where content_rating != 'Everyone' AND content_rating != 'Teen'
+            group by content_rating;
+        end if;
+        v_res := round((v_count/v_whole) * 100);
+        return v_res;
+    end;
+
+//--------------------------------------------------------------------------------------
+//5)This function returns value for pieChart where user has opportunity to create or replace change value and can see another //statistics based on specific field
+
+    function pieChart(p_name varchar2, p_category varchar2)
+    return number is
+    v_res number;
+    v_count number;
+    v_whole number;
+    begin
+        select count(app_name)
+        into v_whole
+        from app_dataset
+        where app_category = p_category;
+        if p_name = 'Everyone' then
+            select nvl(count(*), 0) into v_count
+            from app_dataset
+            where content_rating = 'Everyone' AND app_category = p_category
+            group by content_rating;
+        elsif p_name = 'Teen' then
+            select nvl(count(*),0) into v_count
+            from app_dataset
+            where content_rating = 'Teen' AND app_category = p_category
+            group by content_rating;
+        else 
+            select nvl(sum(count(*)), 0) into v_count
+            from app_dataset
+            where content_rating != 'Everyone' AND content_rating != 'Teen' AND app_category = p_category
+            group by content_rating;
+        end if;
+        v_res := round((v_count/v_whole) * 100);
+        return v_res;
+    end;
+end;
+
+============================================================================
+
+Overall we have:
+
+8 FUNCTIONS(5) AND PROCEDURES(3)
+
+---
+
+3 Cursors, 3 INDEX BY TABLES, 3 Dynamic SQL
+
+---
+
+2 packages: rec_pkg, charts_pkg 

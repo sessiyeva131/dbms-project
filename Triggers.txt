@@ -1,0 +1,50 @@
+1)
+
+CREATE OR REPLACE TRIGGER status_trigg 
+BEFORE INSERT OR UPDATE OF installs ON app_dataset
+FOR EACH ROW
+BEGIN   
+    :new.status := 
+    CASE
+        WHEN num(:NEW.installs) >= 50000000  
+        THEN 'Gold'
+        WHEN num(:NEW.installs) >= 10000000 AND num(:NEW.installs) < 50000000
+        THEN 'Silver'
+        WHEN num(:NEW.installs) >= 1000000 AND num(:NEW.installs) < 10000000
+        THEN 'Bronze'
+        ELSE '-'
+    END;
+END;
+
+2)
+/*  after update    */
+CREATE OR REPLACE TRIGGER rate_trigg 
+before UPDATE ON app_dataset
+FOR EACH ROW
+BEGIN   
+    :new.last_updated := TO_CHAR(sysdate, 'Month DD, YYYY');
+END;
+
+3)
+
+CREATE OR REPLACE TRIGGER REMINDER_TRIGG 
+BEFORE INSERT OR UPDATE OF APP_RATING, INSTALLS, LAST_UPDATED ON app_dataset
+FOR EACH ROW
+declare
+    v_date varchar2(30);
+BEGIN   
+    :new.REMINDER := 
+    CASE
+        WHEN 
+            num(:NEW.APP_RATING) < 40 
+            AND (num(:new.installs) <= 100000 AND num(:new.installs) > 10000)
+        THEN 'DANGER! We suggested you to update your aplplication immediately!'
+        WHEN 
+            num(:new.installs) <= 10000
+        THEN 'WARNING! You should modify your application to increase users interest. Number of installs is too small!'
+        WHEN 
+            num(:NEW.APP_RATING) > 46 AND num(:new.installs) >= 5000000
+        THEN 'SUCCESS! Keep going! Your application is amazing! We are expecting even more apps from you.'
+        ELSE '-'
+    END;
+END;
