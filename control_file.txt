@@ -20,5 +20,4 @@ INFILE 'data_file.txt'
 	status,
 	reminder,
 	img_file_name filler char(100),
-	img lobfile(img_file_name) TERMINATED by eof
-	)
+	img lobfile(img_file_name) TERMINATED by eof)

@@ -1,0 +1,2654 @@
+
+SQL*Loader: Release 11.2.0.2.0 - Production on Пн Май 3 01:48:16 2021
+
+Copyright (c) 1982, 2009, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   control_file.txt
+Data File:      data_file.txt
+  Bad File:     data_file.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     64 rows, maximum of 256000 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table APP_DATASET, loaded from every logical record.
+Insert option in effect for this table: INSERT
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+APP_NAME                            FIRST     *   ,  O(") CHARACTER            
+APP_CATEGORY                         NEXT     *   ,  O(") CHARACTER            
+APP_RATING                           NEXT     *   ,  O(") CHARACTER            
+APP_REVIEWS                          NEXT     *   ,  O(") CHARACTER            
+APP_SIZE                             NEXT     *   ,  O(") CHARACTER            
+INSTALLS                             NEXT     *   ,  O(") CHARACTER            
+APP_TYPE                             NEXT     *   ,  O(") CHARACTER            
+PRICE                                NEXT     *   ,  O(") CHARACTER            
+CONTENT_RATING                       NEXT     *   ,  O(") CHARACTER            
+GENRES                               NEXT     *   ,  O(") CHARACTER            
+LAST_UPDATED                         NEXT     *   ,  O(") CHARACTER            
+CURRENT_VER                          NEXT     *   ,  O(") CHARACTER            
+ANDROID_VER                          NEXT     *   ,  O(") CHARACTER            
+STATUS                               NEXT     *   ,  O(") CHARACTER            
+REMINDER                             NEXT     *   ,  O(") CHARACTER            
+IMG_FILE_NAME                        NEXT   100   ,  O(") CHARACTER            
+  (FILLER FIELD)
+IMG                               DERIVED     *  EOF      CHARACTER            
+    Dynamic LOBFILE.  Filename in field IMG_FILE_NAME
+
+Record 33: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+Record 56: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+Record 59: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+
+SQL*Loader-462: error inserting LOB into column IMG, row 6, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 6, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 6
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 7, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 7, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 7
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'BOOKS/wiki.png	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+SQL*Loader-502: unable to open data file 'BOOKS/cool_reader	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+SQL*Loader-502: unable to open data file 'BOOKS/cool_reader	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 14, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 14, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 14
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 15, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 15, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 15
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 16, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 16, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 16
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 17, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 17, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 17
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 18, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 18, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 18
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'BUSINESS/indeed_job.png	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 26, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 26, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 26
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 29, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 29, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 29
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 31, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 31, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 31
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'ENTERTAINMENT/fox.png	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 35, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 35, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 35
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 36, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 36, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 36
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 37, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 37, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 37
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 38, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 38, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 38
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 39, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 39, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 39
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 40, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 40, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 40
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 41, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 41, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 41
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 42, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 42, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 42
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 43, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 43, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 43
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 45, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 45, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 45
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 46, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 46, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 46
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 47, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 47, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 47
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 48, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 48, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 48
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 49, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 49, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 49
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 50, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 50, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 50
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 51, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 51, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 51
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 52, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 52, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 52
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 53, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 53, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 53
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 54, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 54, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 54
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 55, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 55, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 55
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 57, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 57, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 57
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 58, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 58, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 58
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 60, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 60, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 60
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 61, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 61, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 61
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 62, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 62, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 62
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 63, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 63, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 63
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 64, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 64, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 64
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+Record 107: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+
+SQL*Loader-462: error inserting LOB into column IMG, row 65, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 65, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 65
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 66, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 66, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 66
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 67, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 67, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 67
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 69, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 69, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 69
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 71, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 71, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 71
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 72, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 72, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 72
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 73, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 73, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 73
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 74, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 74, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 74
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 75, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 75, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 75
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 76, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 76, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 76
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 80, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 80, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 80
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 81, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 81, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 81
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 83, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 83, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 83
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 84, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 84, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 84
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 85, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 85, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 85
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 86, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 86, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 86
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 87, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 87, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 87
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 88, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 88, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 88
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 89, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 89, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 89
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 90, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 90, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 90
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 91, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 91, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 91
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 92, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 92, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 92
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 93, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 93, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 93
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 94, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 94, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 94
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 95, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 95, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 95
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 96, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 96, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 96
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 97, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 97, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 97
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 98, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 98, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 98
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 99, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 99, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 99
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 100, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 100, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 100
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 101, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 101, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 101
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 102, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 102, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 102
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 103, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 103, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 103
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 104, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 104, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 104
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 105, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 105, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 105
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 106, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 106, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 106
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 108, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 108, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 108
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 109, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 109, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 109
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 110, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 110, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 110
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 111, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 111, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 111
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 112, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 112, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 112
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 113, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 113, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 113
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 114, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 114, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 114
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 115, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 115, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 115
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 116, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 116, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 116
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 117, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 117, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 117
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 118, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 118, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 118
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 119, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 119, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 119
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 120, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 120, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 120
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 121, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 121, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 121
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 122, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 122, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 122
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 123, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 123, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 123
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 124, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 124, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 124
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 125, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 125, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 125
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 126, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 126, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 126
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 127, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 127, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 127
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 128, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 128, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 128
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+Record 145: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+
+SQL*Loader-462: error inserting LOB into column IMG, row 129, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 129, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 129
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 130, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 130, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 130
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 131, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 131, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 131
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 132, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 132, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 132
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 133, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 133, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 133
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 134, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 134, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 134
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 135, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 135, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 135
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 136, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 136, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 136
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 137, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 137, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 137
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 138, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 138, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 138
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 139, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 139, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 139
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 140, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 140, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 140
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 141, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 141, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 141
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 142, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 142, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 142
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 143, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 143, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 143
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 144, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 144, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 144
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 146, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 146, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 146
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 147, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 147, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 147
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 148, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 148, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 148
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 149, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 149, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 149
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 151, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 151, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 151
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'GAME/clash_royale.jpeg	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 153, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 153, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 153
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 154, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 154, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 154
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 155, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 155, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 155
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 157, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 157, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 157
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 158, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 158, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 158
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 159, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 159, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 159
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 160, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 160, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 160
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 162, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 162, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 162
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 163, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 163, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 163
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 164, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 164, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 164
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 165, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 165, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 165
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 166, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 166, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 166
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 167, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 167, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 167
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 168, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 168, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 168
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 169, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 169, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 169
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 170, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 170, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 170
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 171, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 171, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 171
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 172, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 172, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 172
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 173, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 173, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 173
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 174, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 174, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 174
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 175, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 175, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 175
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 176, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 176, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 176
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 177, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 177, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 177
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 178, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 178, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 178
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 180, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 180, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 180
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 181, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 181, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 181
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 182, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 182, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 182
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 183, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 183, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 183
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 185, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 185, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 185
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'GAME/gegometry_dash.jpeg	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 187, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 187, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 187
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 188, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 188, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 188
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 189, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 189, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 189
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 191, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 191, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 191
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 192, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 192, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 192
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 193, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 193, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 193
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 194, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 194, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 194
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 195, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 195, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 195
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 196, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 196, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 196
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 197, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 197, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 197
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 198, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 198, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 198
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 199, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 199, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 199
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 200, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 200, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 200
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 201, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 201, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 201
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 202, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 202, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 202
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 203, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 203, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 203
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 204, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 204, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 204
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 205, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 205, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 205
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 206, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 206, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 206
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 207, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 207, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 207
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 208, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 208, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 208
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 209, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 209, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 209
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 210, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 210, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 210
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 211, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 211, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 211
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 212, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 212, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 212
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 213, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 213, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 213
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 214, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 214, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 214
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 215, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 215, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 215
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 216, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 216, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 216
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 217, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 217, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 217
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 219, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 219, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 219
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 220, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 220, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 220
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 221, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 221, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 221
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 222, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 222, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 222
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 223, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 223, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 223
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 224, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 224, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 224
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 225, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 225, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 225
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 226, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 226, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 226
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 227, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 227, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 227
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 228, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 228, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 228
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 229, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 229, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 229
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 230, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 230, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 230
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 231, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 231, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 231
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 232, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 232, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 232
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 233, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 233, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 233
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 234, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 234, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 234
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 235, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 235, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 235
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 236, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 236, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 236
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 237, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 237, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 237
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 238, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 238, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 238
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 239, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 239, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 239
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 240, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 240, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 240
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 241, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 241, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 241
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 242, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 242, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 242
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 243, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 243, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 243
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 244, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 244, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 244
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 245, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 245, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 245
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 246, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 246, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 246
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 247, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 247, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 247
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 248, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 248, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 248
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 249, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 249, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 249
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 250, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 250, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 250
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 251, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 251, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 251
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 252, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 252, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 252
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 253, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 253, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 253
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 254, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 254, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 254
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 255, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 255, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 255
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 256, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 256, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 256
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+Record 285: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+Record 307: Rejected - Error on table APP_DATASET, column APP_CATEGORY.
+ORA-12899: value too large for column "SYSTEM"."APP_DATASET"."APP_CATEGORY" (actual: 44, maximum: 30)
+
+
+SQL*Loader-462: error inserting LOB into column IMG, row 257, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 257, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 257
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 258, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 258, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 258
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 259, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 259, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 259
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 260, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 260, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 260
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 261, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 261, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 261
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 262, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 262, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 262
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 263, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 263, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 263
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 264, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 264, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 264
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 265, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 265, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 265
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 266, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 266, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 266
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 267, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 267, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 267
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 268, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 268, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 268
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 269, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 269, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 269
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 270, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 270, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 270
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 271, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 271, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 271
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 272, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 272, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 272
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 273, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 273, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 273
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 274, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 274, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 274
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 275, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 275, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 275
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 276, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 276, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 276
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 277, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 277, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 277
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 278, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 278, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 278
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 279, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 279, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 279
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 280, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 280, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 280
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 281, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 281, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 281
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 282, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 282, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 282
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 283, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 283, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 283
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 284, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 284, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 284
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 286, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 286, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 286
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 287, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 287, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 287
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 288, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 288, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 288
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 289, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 289, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 289
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 290, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 290, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 290
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 291, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 291, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 291
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 292, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 292, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 292
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 293, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 293, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 293
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 294, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 294, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 294
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 295, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 295, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 295
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 296, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 296, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 296
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 297, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 297, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 297
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 298, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 298, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 298
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 299, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 299, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 299
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 300, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 300, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 300
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 301, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 301, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 301
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 302, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 302, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 302
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 303, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 303, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 303
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 304, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 304, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 304
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 305, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 305, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 305
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 306, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 306, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 306
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 309, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 309, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 309
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 310, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 310, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 310
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 311, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 311, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 311
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 312, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 312, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 312
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 313, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 313, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 313
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 314, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 314, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 314
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 315, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 315, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 315
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 316, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 316, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 316
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 317, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 317, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 317
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 318, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 318, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 318
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 319, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 319, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 319
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 320, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 320, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 320
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 321, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 321, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 321
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 322, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 322, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 322
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 323, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 323, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 323
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 324, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 324, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 324
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 325, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 325, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 325
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 326, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 326, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 326
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 327, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 327, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 327
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 328, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 328, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 328
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 329, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 329, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 329
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 330, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 330, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 330
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 331, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 331, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 331
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 332, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 332, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 332
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 333, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 333, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 333
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 334, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 334, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 334
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 335, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 335, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 335
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 336, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 336, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 336
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 337, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 337, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 337
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 338, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 338, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 338
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 339, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 339, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 339
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 340, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 340, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 340
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 341, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 341, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 341
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 342, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 342, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 342
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 343, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 343, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 343
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 344, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 344, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 344
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 345, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 345, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 345
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 346, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 346, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 346
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 347, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 347, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 347
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 348, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 348, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 348
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 349, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 349, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 349
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 350, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 350, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 350
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 351, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 351, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 351
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 352, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 352, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 352
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 353, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 353, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 353
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 354, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 354, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 354
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 355, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 355, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 355
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 356, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 356, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 356
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 357, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 357, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 357
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 358, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 358, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 358
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 359, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 359, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 359
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 360, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 360, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 360
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 361, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 361, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 361
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 362, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 362, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 362
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 363, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 363, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 363
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 364, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 364, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 364
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 365, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 365, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 365
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 366, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 366, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 366
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 367, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 367, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 367
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 368, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 368, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 368
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 369, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 369, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 369
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 370, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 370, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 370
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 371, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 371, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 371
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 372, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 372, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 372
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 373, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 373, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 373
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 374, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 374, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 374
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 375, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 375, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 375
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 376, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 376, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 376
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 377, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 377, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 377
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 378, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 378, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 378
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 379, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 379, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 379
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 380, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 380, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 380
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 381, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 381, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 381
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 382, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 382, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 382
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 383, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 383, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 383
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 384, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 384, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 384
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 385, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 385, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 385
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 386, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 386, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 386
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 387, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 387, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 387
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 388, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 388, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 388
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 389, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 389, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 389
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 390, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 390, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 390
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 391, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 391, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 391
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 392, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 392, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 392
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 393, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 393, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 393
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 394, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 394, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 394
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 395, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 395, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 395
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 396, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 396, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 396
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 397, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 397, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 397
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 398, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 398, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 398
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 399, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 399, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 399
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 400, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 400, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 400
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 401, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 401, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 401
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 402, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 402, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 402
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 403, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 403, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 403
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 404, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 404, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 404
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 405, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 405, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 405
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 406, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 406, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 406
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 407, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 407, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 407
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 408, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 408, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 408
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 409, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 409, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 409
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 410, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 410, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 410
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 411, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 411, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 411
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 412, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 412, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 412
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 413, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 413, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 413
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 414, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 414, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 414
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 415, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 415, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 415
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 416, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 416, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 416
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 417, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 417, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 417
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 418, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 418, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 418
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 419, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 419, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 419
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 420, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 420, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 420
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 421, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 421, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 421
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 422, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 422, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 422
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 423, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 423, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 423
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 424, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 424, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 424
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 425, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 425, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 425
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 426, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 426, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 426
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 427, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 427, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 427
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'GAME/agario.jpg	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 429, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 429, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 429
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 430, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 430, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 430
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 431, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 431, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 431
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 432, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 432, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 432
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 433, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 433, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 433
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 434, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 434, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 434
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 435, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 435, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 435
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 436, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 436, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 436
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 437, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 437, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 437
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 438, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 438, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 438
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 439, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 439, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 439
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 440, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 440, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 440
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 441, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 441, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 441
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 442, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 442, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 442
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 443, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 443, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 443
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 444, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 444, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 444
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 445, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 445, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 445
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 446, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 446, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 446
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 447, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 447, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 447
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 448, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 448, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 448
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+Record 495: Rejected - Error on table APP_DATASET, column APP_CATEGORY.
+ORA-12899: value too large for column "SYSTEM"."APP_DATASET"."APP_CATEGORY" (actual: 33, maximum: 30)
+
+Record 503: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+Record 509: Rejected - Error on table APP_DATASET, column APP_CATEGORY.
+ORA-12899: value too large for column "SYSTEM"."APP_DATASET"."APP_CATEGORY" (actual: 31, maximum: 30)
+
+Record 512: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+
+SQL*Loader-462: error inserting LOB into column IMG, row 449, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 449, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 449
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 450, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 450, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 450
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 451, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 451, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 451
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 452, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 452, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 452
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 453, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 453, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 453
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 454, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 454, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 454
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 455, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 455, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 455
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 456, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 456, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 456
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 457, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 457, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 457
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 458, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 458, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 458
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 459, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 459, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 459
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 460, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 460, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 460
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 461, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 461, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 461
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 462, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 462, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 462
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 463, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 463, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 463
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 464, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 464, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 464
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 465, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 465, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 465
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 466, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 466, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 466
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 467, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 467, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 467
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 468, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 468, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 468
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 469, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 469, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 469
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 470, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 470, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 470
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 471, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 471, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 471
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 472, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 472, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 472
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 473, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 473, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 473
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 474, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 474, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 474
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 475, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 475, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 475
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 476, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 476, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 476
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 477, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 477, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 477
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 478, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 478, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 478
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 479, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 479, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 479
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 480, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 480, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 480
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 481, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 481, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 481
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 482, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 482, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 482
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 483, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 483, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 483
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 484, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 484, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 484
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 485, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 485, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 485
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 486, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 486, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 486
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 487, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 487, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 487
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 488, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 488, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 488
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 489, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 489, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 489
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 490, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 490, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 490
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 491, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 491, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 491
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 492, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 492, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 492
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'SOCIAL/instagram.jpg	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 494, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 494, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 494
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 496, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 496, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 496
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 497, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 497, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 497
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 498, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 498, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 498
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 499, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 499, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 499
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 500, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 500, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 500
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 501, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 501, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 501
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 502, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 502, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 502
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'SOCIAL/telegram.png	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 505, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 505, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 505
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 506, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 506, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 506
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 507, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 507, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 507
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 508, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 508, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 508
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 510, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 510, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 510
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 511, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 511, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 511
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+Record 513: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+Record 514: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+Record 516: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+Record 528: Rejected - Error on table APP_DATASET, column APP_REVIEWS.
+ORA-01722: invalid number
+
+
+SQL*Loader-462: error inserting LOB into column IMG, row 515, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 515, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 515
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 517, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 517, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 517
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 519, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 519, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 519
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 520, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 520, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 520
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 521, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 521, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 521
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 522, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 522, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 522
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 523, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 523, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 523
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 524, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 524, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 524
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 525, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 525, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 525
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+SQL*Loader-502: unable to open data file 'SOCIAL/pinterest.png	' for field IMG table APP_DATASET
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: Устройство не опознает команду.
+
+SQL*Loader-462: error inserting LOB into column IMG, row 527, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 527, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 527
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 529, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 529, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 529
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 530, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 530, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 530
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 531, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 531, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 531
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 532, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 532, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 532
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 533, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 533, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 533
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 534, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 534, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 534
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 535, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 535, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 535
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 536, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 536, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 536
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 537, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 537, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 537
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 538, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 538, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 538
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 539, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 539, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 539
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 540, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 540, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 540
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 541, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 541, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 541
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 542, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 542, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 542
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 543, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 543, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 543
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 544, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 544, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 544
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 545, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 545, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 545
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 546, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 546, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 546
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 547, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 547, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 547
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 548, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 548, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 548
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 549, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 549, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 549
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 550, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 550, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 550
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 551, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 551, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 551
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 552, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 552, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 552
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 553, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 553, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 553
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 554, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 554, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 554
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 555, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 555, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 555
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 556, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 556, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 556
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 557, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 557, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 557
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 558, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 558, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 558
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 559, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 559, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 559
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 560, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 560, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 560
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 561, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 561, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 561
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+SQL*Loader-462: error inserting LOB into column IMG, row 562, table APP_DATASET
+SQL*Loader-646: lob set to EMPTY in column IMG, row 562, table APP_DATASET
+no value set for dynamic file for column IMG in table APP_DATASET row 562
+field for dynamic file name is IMG_FILE_NAME in table APP_DATASET
+
+Table APP_DATASET:
+  547 Rows successfully loaded.
+  15 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 254208 bytes(64 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:           562
+Total logical records rejected:        26
+Total logical records discarded:        0
+
+Run began on Пн Май 03 01:48:16 2021
+Run ended on Пн Май 03 01:48:18 2021
+
+Elapsed time was:     00:00:02.41
+CPU time was:         00:00:00.61

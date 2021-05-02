@@ -1,0 +1,6 @@
+FUNCTIONS(4) & PROCEDURES(3) -----> 7	//done
+COLLECTIONS 		     -----> 3	//done
+CURSORS			     -----> 4	//done
+PACKAGES		     -----> 1	/\ne done
+TRIGGERS		     -----> 3	//done
+DYNAMIC SQL		     -----> 1	\\ne done

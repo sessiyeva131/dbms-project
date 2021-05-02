@@ -1,0 +1,257 @@
+/*	FUNCTIONS	*/
+1) Function which will convert chars to number
+CREATE OR REPLACE FUNCTION num(str varchar2) 
+   RETURN number IS 
+   res NUMBER(20);
+   str_res varchar2(30);
+   BEGIN 
+      str_res := REPLACE(str, '+');
+      str_res := REPLACE(str_res, ',');
+      str_res := REPLACE(str_res, '"');
+      res := TO_NUMBER(str_res, '9999999999');
+      RETURN res; 
+END;
+2) 
+/*	Recomendation SYSTEM	*/
+
+CREATE OR REPLACE PACKAGE rec_pkg AS
+    TYPE test_tab IS TABLE OF app_dataset%ROWTYPE;
+    FUNCTION test_rec(l_where varchar2) RETURN test_tab PIPELINED;
+END;
+
+CREATE OR REPLACE PACKAGE BODY rec_pkg IS
+FUNCTION test_rec(l_where VARCHAR2) RETURN test_tab PIPELINED IS
+          cc sys_refcursor;
+          l_row app_dataset%ROWTYPE;
+       BEGIN
+         OPEN cc FOR 'SELECT * FROM app_dataset WHERE 
+         app_category in (select app_category from app_dataset where ' || l_where|| ')';
+          LOOP
+             FETCH cc INTO l_row;
+             EXIT WHEN cc%NOTFOUND;
+            PIPE ROW (l_row);
+         END LOOP;
+         RETURN;
+    END;
+END;
+
+
+SELECT *
+FROM TABLE(rec_pkg.test_rec('app_name = ''Wikipedia'''));
+
+
+3) 
+/*  Default PieChart function   */
+create or replace function default_pieChart(p_name varchar2)
+return number is
+v_res number;
+v_count number;
+v_whole number;
+begin
+    select count(app_name)
+    into v_whole
+    from app_dataset;
+    if p_name = 'Everyone' then
+        select count(*) into v_count
+        from app_dataset
+        where content_rating = 'Everyone'
+        group by content_rating;
+    elsif p_name = 'Teen' then
+        select count(*) into v_count
+        from app_dataset
+        where content_rating = 'Teen'
+        group by content_rating;
+    else 
+        select sum(count(*)) into v_count
+        from app_dataset
+        where content_rating != 'Everyone' AND content_rating != 'Teen'
+        group by content_rating;
+    end if;
+    v_res := round((v_count/v_whole) * 100);
+    return v_res;
+end;
+---------------------------------------------------------------------------
+4) 
+/*   PieChart with two parameters    */
+create or replace function pieChart(p_name varchar2, p_category varchar2)
+return number is
+v_res number;
+v_count number;
+v_whole number;
+begin
+    select count(app_name)
+    into v_whole
+    from app_dataset
+    where app_category = p_category;
+    if p_name = 'Everyone' then
+        select nvl(count(*), 0) into v_count
+        from app_dataset
+        where content_rating = 'Everyone' AND app_category = p_category
+        group by content_rating;
+    elsif p_name = 'Teen' then
+        select nvl(count(*),0) into v_count
+        from app_dataset
+        where content_rating = 'Teen' AND app_category = p_category
+        group by content_rating;
+    else 
+        select nvl(sum(count(*)), 0) into v_count
+        from app_dataset
+        where content_rating != 'Everyone' AND content_rating != 'Teen' AND app_category = p_category
+        group by content_rating;
+    end if;
+    v_res := round((v_count/v_whole) * 100);
+    return v_res;
+end;
+----------------------------------------------------------------------------
+
+/*	PROCEDURES	*/
+ALTER TABLE app_dataset ADD top_chart number;
+
+create or replace procedure chart is
+cursor cat_cur is
+select distinct app_category 
+from app_dataset;
+TYPE t_cat IS TABLE OF cat_cur%ROWTYPE
+INDEX BY BINARY_INTEGER;
+v_cat_tab t_cat;
+v_count number := 1;
+begin
+    for i in cat_cur loop
+        v_cat_tab(v_count) := i;
+        v_count := v_count + 1;
+    end loop;
+    for i in 1..v_cat_tab.COUNT loop
+        init(v_cat_tab(i).app_category);
+    end loop;
+end;
+
+----------------------------------------------------------------------------
+
+create or replace procedure init(p_name varchar2) is
+    cursor apps_cur is
+    select app_name 
+    from app_dataset
+    where app_category = p_name
+    order by app_rating desc;
+    v_val varchar2(500);
+    type t_apps is table of apps_cur%ROWTYPE
+    INDEX BY BINARY_INTEGER;
+    v_apps_tab t_apps;
+    v_count number := 1;
+begin
+    for i in apps_cur loop
+        v_apps_tab(v_count) := i;
+        v_count := v_count + 1;
+    end loop;
+    for i in 1..v_apps_tab.count loop
+        update app_dataset
+        set top_chart = i
+        where app_name = v_apps_tab(i).app_name;
+    execute immediate v_val;
+    end loop;
+end;
+
+==========================================================================
+
+ALTER TABLE app_dataset ADD top_t number default 0;
+
+create or replace procedure top_teen is
+cursor top_cur is
+select * 
+from app_dataset
+where content_rating = 'Teen'
+order by installs desc;
+TYPE t_top IS TABLE OF top_cur%ROWTYPE
+INDEX BY BINARY_INTEGER;
+v_top_tab t_top;
+v_count number := 1;
+begin
+    for i in top_cur loop
+        v_top_tab(v_count) := i;
+        v_count := v_count + 1;
+        if v_count > 5
+        then exit;
+        end if;
+    end loop;
+    for i in 1..v_top_tab.COUNT loop
+        update app_dataset 
+        set top_t = 2
+        where app_name = v_top_tab(i).app_name;
+    end loop;
+end;
+
+begin
+top_teen();
+end;
+
+/*	JAVAFX PART	*/
+execute procedure;
+ArrayList<> blabla = stmnt.execute('select * from app_dataset where top_t = 2');
+
+==========================================================================
+
+--------------------------------------------------------------------------
+/*   First BarСhart function   */
+create or replace function getValue(p_category varchar2) 
+return number is
+v_val number;
+begin
+    select count(*) into v_val
+    from app_dataset
+    where app_category = p_category
+    group by app_category;
+    return v_val;
+end;
+---------------------------------------------------------------------------
+
+
+/*	TRIGGERS	*/
+CREATE OR REPLACE TRIGGER status_trigg 
+BEFORE INSERT OR UPDATE OF installs ON app_dataset
+FOR EACH ROW
+BEGIN   
+    :new.status := 
+    CASE
+        WHEN num(:NEW.installs) >= 50000000  
+        THEN 'Gold'
+        WHEN num(:NEW.installs) >= 10000000 AND num(:NEW.installs) < 50000000
+        THEN 'Silver'
+        WHEN num(:NEW.installs) >= 1000000 AND num(:NEW.installs) < 10000000
+        THEN 'Bronze'
+        ELSE '-'
+    END;
+END;
+
+
+CREATE OR REPLACE TRIGGER REMINDER_TRIGG 
+BEFORE INSERT OR UPDATE OF APP_RATING, INSTALLS, LAST_UPDATED ON app_dataset
+FOR EACH ROW
+declare
+    v_diff number;
+    v_date varchar2(30);
+BEGIN   
+    --SELECT round(sysdate - date_conv(:NEW.LAST_UPDATED)) into v_diff from dual;
+    :new.REMINDER := 
+    CASE
+        WHEN 
+            num(:NEW.APP_RATING) < 40 
+            --AND (v_diff > 1095) 
+            AND (num(:new.installs) <= 100000 AND num(:new.installs) > 10000)
+        THEN 'DANGER! We suggested you to update your aplplication immediately!'
+        WHEN 
+            num(:new.installs) <= 10000
+        THEN 'WARNING! You should modify your application to increase users interest. Number of installs is too small!'
+        WHEN 
+            num(:NEW.APP_RATING) > 46 AND num(:new.installs) >= 5000000
+        THEN 'SUCCESS! Keep going! Your application is amazing! We are expecting even more apps from you.'
+        ELSE '-'
+    END;
+END;
+
+
+CREATE OR REPLACE TRIGGER rate_trigg 
+before UPDATE ON app_dataset
+FOR EACH ROW
+BEGIN   
+    :new.last_updated := TO_CHAR(sysdate, 'Month DD, YYYY');
+END;

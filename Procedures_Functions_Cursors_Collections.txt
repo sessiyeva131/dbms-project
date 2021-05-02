@@ -60,7 +60,7 @@ v_count number := 1;
 l_row app_dataset%ROWTYPE;
 begin
     OPEN top_cur FOR 'SELECT * FROM app_dataset WHERE 				//Dynamic SQL
-         content_rating = ''' || p_name || ''' order by installs desc';
+         ' || p_name || ' order by installs desc';
     LOOP
     FETCH top_cur INTO l_row;
         v_top_tab(v_count) := l_row;
@@ -74,6 +74,12 @@ begin
         set top_t = 3
         where app_name = v_top_tab(i).app_name;
     end loop;
+end;
+
+ALTER TABLE app_dataset ADD top_t number default 0;
+
+begin
+top('content_rating = ''Teen''');
 end;
 
 ##########################--------FUNCTIONS---------########################
