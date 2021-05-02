@@ -1,0 +1,562 @@
+Photo Editor & Candy Camera & Grid & ScrapBook,ART_AND_DESIGN,4.1,159,19M,"10,000+",Free,0,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up,-,-,ART_AND_DESIGN/candy.jpeg
+Sketch - Draw & Paint,ART_AND_DESIGN,4.5,215644,25M,"50,000,000+",Free,0,Teen,Art & Design,"June 8, 2018",Varies with device,4.2 and up,-,-,ART_AND_DESIGN/sketch_draw.jpeg
+Tattoo Name On My Photo Editor,ART_AND_DESIGN,4.2,44829,20M,"10,000,000+",Free,0,Teen,Art & Design,"April 2, 2018",3.8,4.1 and up,-,-,ART_AND_DESIGN/tattoo.png
+Mandala Coloring Book,ART_AND_DESIGN,4.6,4326,21M,"100,000+",Free,0,Everyone,Art & Design,"June 26, 2018",1.0.4,4.4 and up,-,-,ART_AND_DESIGN/mandala.png
+3D Color Pixel by Number - Sandbox Art Coloring,ART_AND_DESIGN,4.4,1518,37M,"100,000+",Free,0,Everyone,Art & Design,"August 3, 2018",1.2.3,2.3 and up,-,-,ART_AND_DESIGN/pixel.png
+Photo Designer - Write your name with shapes,ART_AND_DESIGN,4.7,3632,5.5M,"500,000+",Free,0,Everyone,Art & Design,"July 31, 2018",3.1,4.1 and up	
+350 Diy Room Decor Ideas,ART_AND_DESIGN,4.5,27,17M,"10,000+",Free,0,Everyone,Art & Design,"November 7, 2017",1.0,2.3 and up	
+Wikipedia,BOOKS_AND_REFERENCE,4.4,577550,Varies with device,"10,000,000+",Free,0,Everyone,Books & Reference,"August 2, 2018",Varies with device,Varies with device,-,-,BOOKS/wiki.png	
+Amazon Kindle,BOOKS_AND_REFERENCE,4.2,814080,Varies with device,"100,000,000+",Free,0,Teen,Books & Reference,"July 27, 2018",Varies with device,Varies with device,-,-,BOOKS/kindle.png
+Cool Reader,BOOKS_AND_REFERENCE,4.5,246315,Varies with device,"10,000,000+",Free,0,Everyone,Books & Reference,"July 17, 2015",Varies with device,1.5 and up,-,-,BOOKS/cool_reader	
+Dictionary - Merriam-Webster,BOOKS_AND_REFERENCE,4.5,454060,Varies with device,"10,000,000+",Free,0,Everyone,Books & Reference,"May 18, 2018",Varies with device,Varies with device,-,-,BOOKS/cool_reader	
+NOOK: Read eBooks & Magazines,BOOKS_AND_REFERENCE,4.5,155446,Varies with device,"10,000,000+",Free,0,Teen,Books & Reference,"April 25, 2018",Varies with device,Varies with device,-,-,BOOKS/NOOK.png
+Google Play Books,BOOKS_AND_REFERENCE,3.9,1433233,Varies with device,"1,000,000,000+",Free,0,Teen,Books & Reference,"August 3, 2018",Varies with device,Varies with device,-,-,BOOKS/GoogleRead.png
+AlReader -any text book reader,BOOKS_AND_REFERENCE,4.6,90468,5.9M,"5,000,000+",Free,0,Everyone,Books & Reference,"May 27, 2018",1.911805270,2.3 and up	
+Offline English Dictionary,BOOKS_AND_REFERENCE,4.2,860,13M,"100,000+",Free,0,Everyone,Books & Reference,"July 17, 2018",1.0,4.0.3 and up	
+Oxford Dictionary of English : Free,BOOKS_AND_REFERENCE,4.1,363934,7.1M,"10,000,000+",Free,0,Everyone,Books & Reference,"July 11, 2018",9.1.363,4.1 and up	
+Spanish English Translator,BOOKS_AND_REFERENCE,4.2,87873,Varies with device,"10,000,000+",Free,0,Teen,Books & Reference,"May 28, 2018",Varies with device,Varies with device	
+English Dictionary - Offline,BOOKS_AND_REFERENCE,4.4,341157,30M,"10,000,000+",Free,0,Everyone 10+,Books & Reference,"March 20, 2018",3.9.1,4.2 and up
+Visual Voicemail by MetroPCS,BUSINESS,4.1,16129,Varies with device,"10,000,000+",Free,0,Everyone,Business,"July 30, 2018",Varies with device,Varies with device,-,-,BUSINESS/VoiceMail.png
+Indeed Job Search,BUSINESS,4.3,674730,Varies with device,"50,000,000+",Free,0,Everyone,Business,"May 21, 2018",Varies with device,Varies with device,-,-,BUSINESS/indeed_job.png	
+Uber Driver,BUSINESS,4.4,1254730,Varies with device,"10,000,000+",Free,0,Everyone,Business,"August 3, 2018",Varies with device,Varies with device,-,-,BUSINESS/uber.png
+ADP Mobile Solutions,BUSINESS,4.3,85185,29M,"5,000,000+",Free,0,Everyone,Business,"July 17, 2018",3.4.2,5.0 and up,-,-,BUSINESS/adp.png
+OfficeSuite : Free Office + PDF Editor,BUSINESS,4.3,1002861,35M,"100,000,000+",Free,0,Everyone,Business,"August 2, 2018",9.7.14188,4.1 and up,-,-,BUSINESS/office.png
+USPS MOBILEВ®,BUSINESS,3.9,16589,9.1M,"1,000,000+",Free,0,Everyone,Business,"June 14, 2018",4.9.10,4.0.3 and up,-,-,BUSINESS/usps.png
+ZOOM Cloud Meetings,BUSINESS,4.4,31614,37M,"10,000,000+",Free,0,Everyone,Business,"July 20, 2018",4.1.28165.0716,4.0 and up,-,-,BUSINESS/zoom.png
+IMDb Movies & TV,ENTERTAINMENT,4.2,501498,12M,"100,000,000+",Free,0,Teen,Entertainment,"July 26, 2018",Varies with device,Varies with device	
+Netflix,ENTERTAINMENT,4.4,5456599,Varies with device,"100,000,000+",Free,0,Teen,Entertainment,"July 31, 2018",Varies with device,Varies with device,-,-,ENTERTAINMENT/netflix.png
+Tubi TV - Free Movies & TV,ENTERTAINMENT,4.3,296829,11M,"10,000,000+",Free,0,Teen,Entertainment,"July 15, 2018",2.13.5,4.1 and up,-,-,ENTERTAINMENT/tubi.png
+Crunchyroll - Everything Anime,ENTERTAINMENT,3.7,310095,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"March 5, 2018",Varies with device,Varies with device	
+STARZ,ENTERTAINMENT,4.3,88185,Varies with device,"10,000,000+",Free,0,Mature 17+,Entertainment,"June 20, 2018",Varies with device,Varies with device,-,-,ENTERTAINMENT/starz.png
+Crackle - Free TV & Movies,ENTERTAINMENT,3.7,388089,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"April 12, 2018",Varies with device,Varies with device	
+CBS - Full Episodes & Live TV,ENTERTAINMENT,3.8,92058,12M,"10,000,000+",Free,0,Teen,Entertainment,"July 20, 2018",4.8.6,4.1 and up,-,-,ENTERTAINMENT/CBS.png
+Hulu: Stream TV, Movies & more,ENTERTAINMENT,4.0,319691,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"August 3, 2018",Varies with device,5.0 and up	
+FOX NOW - On Demand & Live TV,ENTERTAINMENT,3.9,60841,Varies with device,"5,000,000+",Free,0,Teen,Entertainment,"July 26, 2018",Varies with device,4.4 and up,-,-,ENTERTAINMENT/fox.png	
+The CW,ENTERTAINMENT,4.4,288150,21M,"5,000,000+",Free,0,Teen,Entertainment,"July 23, 2018",2.17,4.4 and up	
+CW Seed,ENTERTAINMENT,4.5,16372,13M,"500,000+",Free,0,Teen,Entertainment,"July 18, 2018",1.16,4.4 and up	
+The NBC App - Watch Live TV and Full Episodes,ENTERTAINMENT,4.1,58028,17M,"5,000,000+",Free,0,Teen,Entertainment,"July 5, 2018",4.18.1,4.1 and up	
+HISTORY: Watch TV Show Full Episodes & Specials,ENTERTAINMENT,4.1,33387,20M,"1,000,000+",Free,0,Teen,Entertainment,"July 16, 2018",3.1.4,4.4 and up	
+HBO NOW: Stream TV & Movies,ENTERTAINMENT,3.9,61201,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"July 19, 2018",Varies with device,Varies with device	
+WWE,ENTERTAINMENT,4.5,736864,20M,"10,000,000+",Free,0,Teen,Entertainment,"January 19, 2018",3.17.2,4.1 and up	
+A&E - Watch Full Episodes of TV Shows,ENTERTAINMENT,4.0,29706,19M,"1,000,000+",Free,0,Teen,Entertainment,"July 16, 2018",3.1.4,4.4 and up	
+VH1,ENTERTAINMENT,4.1,27424,17M,"1,000,000+",Free,0,Teen,Entertainment,"July 8, 2018",11.45.0,4.4 and up	
+MTV,ENTERTAINMENT,3.8,35279,15M,"1,000,000+",Free,0,Teen,Entertainment,"July 8, 2018",11.45.0,4.4 and up	
+Lifetime - Watch Full Episodes & Original Movies,ENTERTAINMENT,4.0,35931,19M,"1,000,000+",Free,0,Teen,Entertainment,"July 16, 2018",3.1.4,4.4 and up,-,-,ENTERTAINMENT/life.png
+BET NOW - Watch Shows,ENTERTAINMENT,4.2,14807,19M,"1,000,000+",Free,0,Teen,Entertainment,"July 8, 2018",11.45.0,4.4 and up	
+HBO GO: Stream with TV Package,ENTERTAINMENT,3.8,87723,32M,"10,000,000+",Free,0,Teen,Entertainment,"July 19, 2018",16.0.0.437,4.1 and up	
+Showtime Anytime,ENTERTAINMENT,3.7,18523,Varies with device,"1,000,000+",Free,0,Teen,Entertainment,"July 2, 2018",Varies with device,Varies with device	
+FOX,ENTERTAINMENT,3.7,197774,44M,"10,000,000+",Free,0,Mature 17+,Entertainment,"June 25, 2018",6.6.1,4.4 and up	
+Telemundo Now,ENTERTAINMENT,3.9,8674,19M,"1,000,000+",Free,0,Teen,Entertainment,"May 25, 2018",3.3.1.42,4.4 and up	
+Netflix,ENTERTAINMENT,4.4,5456708,Varies with device,"100,000,000+",Free,0,Teen,Entertainment,"July 31, 2018",Varies with device,Varies with device	
+Tubi TV - Free Movies & TV,ENTERTAINMENT,4.3,296771,11M,"10,000,000+",Free,0,Teen,Entertainment,"July 15, 2018",2.13.5,4.1 and up	
+Vudu Movies & TV,ENTERTAINMENT,3.9,58082,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"August 1, 2018",Varies with device,Varies with device	
+Crackle - Free TV & Movies,ENTERTAINMENT,3.7,388089,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"April 12, 2018",Varies with device,Varies with device	
+Crunchyroll - Everything Anime,ENTERTAINMENT,3.7,310066,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"March 5, 2018",Varies with device,Varies with device	
+STARZ,ENTERTAINMENT,4.3,88185,Varies with device,"10,000,000+",Free,0,Mature 17+,Entertainment,"June 20, 2018",Varies with device,Varies with device	
+Hulu: Stream TV, Movies & more,ENTERTAINMENT,4.0,319691,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"August 3, 2018",Varies with device,5.0 and up	
+Food Network,ENTERTAINMENT,4.1,7813,Varies with device,"500,000+",Free,0,Teen,Entertainment,"July 27, 2018",Varies with device,Varies with device	
+FOX NOW - On Demand & Live TV,ENTERTAINMENT,3.9,60841,Varies with device,"5,000,000+",Free,0,Teen,Entertainment,"July 26, 2018",Varies with device,4.4 and up	
+Movies by Flixster, with Rotten Tomatoes,ENTERTAINMENT,4.5,653008,16M,"10,000,000+",Free,0,Everyone,Entertainment,"June 20, 2018",9.1.4,4.4 and up	
+Yidio: TV Show & Movie Guide,ENTERTAINMENT,3.9,27424,Varies with device,"1,000,000+",Free,0,Teen,Entertainment,"July 31, 2018",Varies with device,Varies with device	
+HISTORY: Watch TV Show Full Episodes & Specials,ENTERTAINMENT,4.1,33387,20M,"1,000,000+",Free,0,Teen,Entertainment,"July 16, 2018",3.1.4,4.4 and up	
+Viki: Asian TV Dramas & Movies,ENTERTAINMENT,4.3,407719,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"July 27, 2018",Varies with device,Varies with device	
+The CW,ENTERTAINMENT,4.4,288150,21M,"5,000,000+",Free,0,Teen,Entertainment,"July 23, 2018",2.17,4.4 and up	
+Redbox,ENTERTAINMENT,4.1,115033,30M,"10,000,000+",Free,0,Everyone,Entertainment,"July 2, 2018",7.5.0,5.0 and up	
+Univision NOW - Live TV and On Demand,ENTERTAINMENT,4.0,22997,Varies with device,"1,000,000+",Free,0,Teen,Entertainment,"June 27, 2018",8.0626,Varies with device	
+HBO NOW: Stream TV & Movies,ENTERTAINMENT,3.9,61201,Varies with device,"10,000,000+",Free,0,Teen,Entertainment,"July 19, 2018",Varies with device,Varies with device	
+Live 4D Results ! (MY & SG),LIFESTYLE,4.6,116079,3.2M,"5,000,000+",Free,0,Everyone,Lifestyle,"May 20, 2018",5.8,2.3 and up	
+Diary with lock,LIFESTYLE,4.6,815893,4.4M,"10,000,000+",Free,0,Everyone,Lifestyle,"June 30, 2018",4.90,4.1 and up,-,-,LIFESTYLE/Diary.png
+FOSSIL Q: DESIGN YOUR DIAL,LIFESTYLE,4.3,985,16M,"500,000+",Free,0,Everyone,Lifestyle,"May 31, 2018",3.7,7.0 and up	
+Telstra,LIFESTYLE,3.0,4260,6.3M,"5,000,000+",Free,0,Everyone,Lifestyle,"August 8, 2017",6.1,2.3.3 and up,-,-,LIFESTYLE/telstra.png
+Family Locator - GPS Tracker,LIFESTYLE,4.4,726074,45M,"10,000,000+",Free,0,Everyone,Lifestyle,"August 2, 2018",16.7.1,4.4 and up	
+Van Nien 2018 - Lich Van su & Lich Am,LIFESTYLE,4.4,3829,23M,"1,000,000+",Free,0,Everyone,Lifestyle,"June 1, 2018",3.9.3,4.1 and up	
+Safeway,LIFESTYLE,4.3,33572,37M,"1,000,000+",Free,0,Everyone,Lifestyle,"August 2, 2018",6.2.0,4.4 and up	
+HTC Speak,LIFESTYLE,3.5,6145,13M,"10,000,000+",Free,0,Everyone,Lifestyle,"June 30, 2016",8.00.775375,5.0 and up	
+Kawaii Easy Drawing : How to draw Step by Step,LIFESTYLE,4.3,34327,8.1M,"5,000,000+",Free,0,Everyone,Lifestyle,"July 17, 2018",2.5.1,4.0 and up	
+Tattoodo - Find your next tattoo,LIFESTYLE,4.5,7457,13M,"1,000,000+",Free,0,Teen,Lifestyle,"August 3, 2018",2.4.12-r244,4.1 and up	
+H&M,LIFESTYLE,3.7,41941,14M,"10,000,000+",Free,0,Everyone,Lifestyle,"July 30, 2018",9.6.3,4.4 and up,-,-,LIFESTYLE/HM.png
+Samsung+,LIFESTYLE,4.5,82145,30M,"50,000,000+",Free,0,Everyone,Lifestyle,"July 5, 2018",10.19.0.0,4.4 and up,-,-,LIFESTYLE/sam+.png
+Anime Avatar Creator: Make Your Own Avatar,LIFESTYLE,4.2,10944,36M,"1,000,000+",Free,0,Everyone,Lifestyle,"June 15, 2018",2.0,4.1 and up,-,-,LIFESTYLE/anime.jpg
+Beautiful Design Birthday Cake,LIFESTYLE,4.3,665,3.0M,"500,000+",Free,0,Everyone,Lifestyle,"August 4, 2018",2.0,2.3 and up	
+Pronunciation and know the name of the caller from his number,LIFESTYLE,4.6,2167,1.4M,"500,000+",Free,0,Everyone,Lifestyle,"January 7, 2018",1.0,2.3 and up	
+Super Slime Simulator - Satisfying Slime App,LIFESTYLE,4.5,53652,39M,"1,000,000+",Free,0,Everyone,Lifestyle,"August 5, 2018",2.15,5.0 and up,-,-,LIFESTYLE/slime.png
+Caf - My Account,LIFESTYLE,3.9,18961,1.8M,"5,000,000+",Free,0,Everyone,Lifestyle,"September 24, 2015",1.1.1,2.3 and up	
+H Pack,LIFESTYLE,4.3,9412,1.7M,"1,000,000+",Free,0,Everyone,Lifestyle,"December 17, 2016",1.5.1,4.0.3 and up	
+Family convenience store FamilyMart,LIFESTYLE,3.3,9663,19M,"1,000,000+",Free,0,Everyone,Lifestyle,"July 16, 2018",Version:6.97,4.4 and up	
+бЂћбЂ­бЂ„бЂєбЂ№ Astrology - Min Thein Kha BayDin,LIFESTYLE,4.7,2225,15M,"100,000+",Free,0,Everyone,Lifestyle,"July 26, 2018",4.2.1,4.0.3 and up	
+w UN map,LIFESTYLE,4.2,23164,10.0M,"1,000,000+",Free,0,Mature 17+,Lifestyle,"July 24, 2018",2.6,5.0 and up	
+Official Matsumoto Kiyoshi application,LIFESTYLE,3.2,3031,2.7M,"1,000,000+",Free,0,Everyone,Lifestyle,"July 3, 2018",1.5.3,4.0 and up	
+Galaxy Gift,LIFESTYLE,4.4,95557,16M,"10,000,000+",Free,0,Everyone,Lifestyle,"July 23, 2018",7.0.8,4.0.3 and up	
+PASS by KT (formerly KT certified),LIFESTYLE,3.5,7869,21M,"1,000,000+",Free,0,Everyone,Lifestyle,"August 1, 2018",02.00.06,4.4 and up	
+Safety stepping stone,LIFESTYLE,3.7,4212,20M,"1,000,000+",Free,0,Everyone,Lifestyle,"July 25, 2018",3.4.5,2.3 and up	
+Rate Guide Bill Letter,LIFESTYLE,3.8,17368,14M,"10,000,000+",Free,0,Everyone,Lifestyle,"June 27, 2018",5.1.3,4.0 and up	
+US Mission - buy gourmet movie KTV,LIFESTYLE,3.8,6554,76M,"500,000+",Free,0,Teen,Lifestyle,"June 20, 2018",9.4.2,4.1 and up	
+OK cashbag [point of pleasure],LIFESTYLE,3.7,33264,18M,"10,000,000+",Free,0,Everyone,Lifestyle,"June 15, 2018",6.2.1,4.0 and up	
+JOANN - Crafts & Coupons,LIFESTYLE,4.6,34782,12M,"1,000,000+",Free,0,Everyone,Lifestyle,"June 22, 2018",5.2.2,4.3 and up	
+MK eCatalog,LIFESTYLE,4.0,6676,6.2M,"1,000,000+",Free,0,Everyone,Lifestyle,"February 21, 2018",3.0,4.2 and up	
+Vaniday - Beauty Booking App,LIFESTYLE,3.6,1067,Varies with device,"100,000+",Free,0,Everyone,Lifestyle,"March 20, 2018",3.8.15,4.1 and up	
+Fashion in Vogue,LIFESTYLE,3.8,1797,6.8M,"100,000+",Free,0,Everyone,Lifestyle,"September 27, 2016",2.0,4.3 and up	
+Mirror,LIFESTYLE,4.1,367505,Varies with device,"10,000,000+",Free,0,Everyone,Lifestyle,"July 25, 2018",Varies with device,Varies with device	
+StyleSeat,LIFESTYLE,4.7,20304,24M,"500,000+",Free,0,Everyone,Lifestyle,"July 31, 2018",4.35,4.0.3 and up	
+Wedding Countdown Widget,LIFESTYLE,3.9,7376,19M,"1,000,000+",Free,0,Everyone,Lifestyle,"January 11, 2018",5.2.2018010801-1,4.1 and up	
+My Day - Countdown Calendar рџ—“пёЏ,LIFESTYLE,4.1,49147,13M,"1,000,000+",Free,0,Everyone,Lifestyle,"May 7, 2018",2.9.5,4.1 and up	
+justWink Greeting Cards,LIFESTYLE,4.6,69177,15M,"1,000,000+",Free,0,Teen,Lifestyle,"August 2, 2017",2.7.3,4.4 and up	
+Wedding LookBook by The Knot,LIFESTYLE,4.2,3448,13M,"100,000+",Free,0,Everyone,Lifestyle,"July 9, 2018",3.9.5,4.0.3 and up	
+Vaniday - Beauty Booking App,LIFESTYLE,3.6,1067,Varies with device,"100,000+",Free,0,Everyone,Lifestyle,"March 20, 2018",3.8.15,4.1 and up	
+Big Days - Events Countdown,LIFESTYLE,4.6,39724,Varies with device,"1,000,000+",Free,0,Everyone,Lifestyle,"June 29, 2018",Varies with device,Varies with device	
+Wedding Planner by WeddingWire - Venues, Checklist,LIFESTYLE,4.2,3788,44M,"1,000,000+",Free,0,Everyone,Lifestyle,"July 24, 2018",8.5.1,5.0 and up	
+Been Together (Ad) - D-day,LIFESTYLE,4.4,95736,Varies with device,"10,000,000+",Free,0,Everyone,Lifestyle,"July 30, 2018",Varies with device,Varies with device	
+WedMeGood - Wedding Planner,LIFESTYLE,4.6,1658,9.7M,"100,000+",Free,0,Everyone,Lifestyle,"July 31, 2018",2.0.9,4.4 and up	
+StyleSeat,LIFESTYLE,4.7,20304,24M,"500,000+",Free,0,Everyone,Lifestyle,"July 31, 2018",4.35,4.0.3 and up	
+DIY Garden Ideas,LIFESTYLE,4.1,3309,13M,"500,000+",Free,0,Everyone,Lifestyle,"August 5, 2018",10.0,4.0 and up	
+Brit + Co,LIFESTYLE,3.9,987,4.5M,"10,000+",Free,0,Everyone,Lifestyle,"August 29, 2017",2.0.4,4.0 and up	
+Creative Ideas - DIY & Craft,LIFESTYLE,4.0,5208,4.5M,"100,000+",Free,0,Teen,Lifestyle,"November 23, 2017",1.37,4.0 and up	
+Homestyler Interior Design & Decorating Ideas,LIFESTYLE,4.1,78298,29M,"5,000,000+",Free,0,Everyone,Lifestyle,"August 2, 2018",3.1.2.1,4.1 and up	
+JOANN - Crafts & Coupons,LIFESTYLE,4.6,34802,12M,"1,000,000+",Free,0,Everyone,Lifestyle,"June 22, 2018",5.2.2,4.3 and up	
+Wheretoget: Shop in style,LIFESTYLE,4.1,6808,12M,"500,000+",Free,0,Teen,Lifestyle,"June 5, 2017",3.2.0,4.1 and up	
+My Dressing - Fashion closet,LIFESTYLE,4.1,12452,Varies with device,"500,000+",Free,0,Everyone,Lifestyle,"January 26, 2017",Varies with device,Varies with device	
+Chictopia,LIFESTYLE,4.1,360,4.6M,"10,000+",Free,0,Everyone,Lifestyle,"April 30, 2014",1.6.2,2.2 and up	
+Scarf Fashion Designer,LIFESTYLE,4.4,16637,10M,"1,000,000+",Free,0,Everyone,Lifestyle,"June 18, 2017",1.8,2.3 and up	
+Fashion in Vogue,LIFESTYLE,3.8,1797,6.8M,"100,000+",Free,0,Everyone,Lifestyle,"September 27, 2016",2.0,4.3 and up	
+Zara,LIFESTYLE,4.3,95904,33M,"10,000,000+",Free,0,Everyone,Lifestyle,"July 30, 2018",4.1.0,4.1 and up	
+Wheretoget: Shop in style,LIFESTYLE,4.1,6808,12M,"500,000+",Free,0,Teen,Lifestyle,"June 5, 2017",3.2.0,4.1 and up	
+My Dressing - Fashion closet,LIFESTYLE,4.1,12452,Varies with device,"500,000+",Free,0,Everyone,Lifestyle,"January 26, 2017",Varies with device,Varies with device	
+Chictopia,LIFESTYLE,4.1,360,4.6M,"10,000+",Free,0,Everyone,Lifestyle,"April 30, 2014",1.6.2,2.2 and up	
+Scarf Fashion Designer,LIFESTYLE,4.4,16637,10M,"1,000,000+",Free,0,Everyone,Lifestyle,"June 18, 2017",1.8,2.3 and up	
+Fashion in Vogue,LIFESTYLE,3.8,1797,6.8M,"100,000+",Free,0,Everyone,Lifestyle,"September 27, 2016",2.0,4.3 and up	
+Zara,LIFESTYLE,4.3,95905,33M,"10,000,000+",Free,0,Everyone,Lifestyle,"July 30, 2018",4.1.0,4.1 and up	
+Real Estate by Movoto,LIFESTYLE,4.4,3114,13M,"100,000+",Free,0,Everyone,Lifestyle,"February 20, 2018",6.1,4.0.3 and up	
+Etta Homes,LIFESTYLE,4.2,220,15M,"50,000+",Free,0,Everyone,Lifestyle,"July 26, 2018",9.1.0,5.0 and up	
+Houlihan Lawrence,LIFESTYLE,4.4,33,23M,"5,000+",Free,0,Everyone,Lifestyle,"October 12, 2017",3.9.5,4.2 and up	
+Home ScoutingВ® MLS Mobile,LIFESTYLE,4.3,1533,7.7M,"100,000+",Free,0,Everyone,Lifestyle,"September 27, 2016",2.2.6,2.2 and up	
+Housing-Real Estate & Property,LIFESTYLE,4.1,28301,Varies with device,"1,000,000+",Free,0,Everyone,Lifestyle,"July 13, 2018",12.1.0,4.1 and up	
+ZipRealty Real Estate & Homes,LIFESTYLE,4.0,3937,15M,"100,000+",Free,0,Everyone,Lifestyle,"July 27, 2018",8.3.3,4.4 and up	
+Sotheby's International Realty,LIFESTYLE,4.2,894,25M,"50,000+",Free,0,Everyone,Lifestyle,"April 9, 2018",5.600.42,4.0.3 and up	
+Zoopla Property Search UK - Home to buy & rent,LIFESTYLE,4.1,21195,Varies with device,"1,000,000+",Free,0,Everyone,Lifestyle,"June 22, 2018",Varies with device,Varies with device	
+Neighborhoods & Apartments,LIFESTYLE,3.9,2042,3.0M,"100,000+",Free,0,Everyone,Lifestyle,"August 28, 2015",3.1.6,4.0 and up	
+Keller Williams Real Estate,LIFESTYLE,4.4,13213,22M,"1,000,000+",Free,0,Everyone,Lifestyle,"March 28, 2018",5.800.04,4.0.3 and up	
+Relax Rain ~ Rain Sounds,LIFESTYLE,4.6,118034,Varies with device,"5,000,000+",Free,0,Everyone,Lifestyle,"August 2, 2018",Varies with device,Varies with device	
+Relax Ocean ~ Nature Sounds,LIFESTYLE,4.5,9464,Varies with device,"500,000+",Free,0,Everyone,Lifestyle,"July 18, 2017",Varies with device,Varies with device	
+Bed Time Fan - White Noise Sleep Sounds,LIFESTYLE,4.5,10097,7.5M,"500,000+",Free,0,Everyone,Lifestyle,"April 26, 2018",1.2,4.0 and up	
+Nature Sounds,LIFESTYLE,4.8,28588,24M,"1,000,000+",Free,0,Everyone,Lifestyle,"March 1, 2018",3.1.8,4.0.3 and up	
+SleepyTime: Bedtime Calculator,LIFESTYLE,4.4,19621,Varies with device,"500,000+",Free,0,Everyone,Lifestyle,"February 27, 2016",Varies with device,Varies with device	
+White Noise Baby,LIFESTYLE,4.5,10544,44M,"1,000,000+",Free,0,Everyone,Lifestyle,"June 18, 2018",5.3,4.1 and up	
+White Noise ~ Sleeping Sounds,LIFESTYLE,4.5,4427,Varies with device,"100,000+",Free,0,Everyone,Lifestyle,"June 23, 2017",Varies with device,Varies with device	
+Journey - Diary, Journal,LIFESTYLE,4.6,50338,Varies with device,"1,000,000+",Free,0,Everyone,Lifestyle,"July 23, 2018",Varies with device,Varies with device	
+7 Day Food Journal Challenge,LIFESTYLE,4.5,3346,14M,"100,000+",Free,0,Teen,Lifestyle,"March 8, 2017",3.6.3,4.0.3 and up	
+Subway Surfers,GAME,4.5,27722264,76M,"1,000,000,000+",Free,0,Everyone 10+,Arcade,"July 12, 2018",1.90.0,4.1 and up	
+Candy Crush Saga,GAME,4.4,22426677,74M,"500,000,000+",Free,0,Everyone,Casual,"July 5, 2018",1.129.0.2,4.1 and up	
+Solitaire,GAME,4.7,254258,23M,"10,000,000+",Free,0,Everyone,Card,"August 1, 2018",2.137.0,4.1 and up	
+Bubble Shooter,GAME,4.5,148897,46M,"10,000,000+",Free,0,Everyone,Casual,"July 17, 2018",1.20.1,4.0.3 and up,-,-,GAME/bubble.jpeg
+slither.io,GAME,4.4,5234162,Varies with device,"100,000,000+",Free,0,Everyone,Action,"November 14, 2017",Varies with device,2.3 and up	
+Clash Royale,GAME,4.6,23133508,97M,"100,000,000+",Free,0,Everyone 10+,Strategy,"June 27, 2018",2.3.2,4.1 and up,-,-,GAME/clash_royale.jpeg	
+Pou,GAME,4.3,10485308,24M,"500,000,000+",Free,0,Everyone,Casual,"May 25, 2018",1.4.77,4.0 and up	
+Helix Jump,GAME,4.2,1497361,33M,"100,000,000+",Free,0,Everyone,Action,"April 9, 2018",1.0.6,4.1 and up	
+Block Puzzle,GAME,4.6,59800,7.8M,"5,000,000+",Free,0,Everyone,Puzzle,"March 6, 2018",2.9,2.3 and up	
+Angry Birds Rio,GAME,4.4,2610526,46M,"100,000,000+",Free,0,Everyone,Arcade,"July 3, 2018",2.6.9,4.1 and up,-,-,GAME/angry_bird.jpeg
+Plants vs. Zombies FREE,GAME,4.4,4066989,69M,"100,000,000+",Free,0,Everyone 10+,Strategy,"July 6, 2018",2.2.00,4.1 and up	
+Sonic Dash,GAME,4.5,3778921,75M,"100,000,000+",Free,0,Everyone,Arcade,"July 26, 2018",3.8.5.Go,4.1 and up	
+Candy Crush Soda Saga,GAME,4.4,6198563,67M,"100,000,000+",Free,0,Everyone,Casual,"July 10, 2018",1.118.4,4.1 and up	
+Zombie Hunter King,GAME,4.3,10306,50M,"1,000,000+",Free,0,Mature 17+,Action,"August 1, 2018",1.0.8,2.3 and up	
+Clash of Clans,GAME,4.6,44891723,98M,"100,000,000+",Free,0,Everyone 10+,Strategy,"July 15, 2018",10.322.16,4.1 and up,-,-,GAME/clash_clans.jpeg
+Kick the Buddy,GAME,4.3,1000417,Varies with device,"50,000,000+",Free,0,Teen,Action,"July 5, 2018",Varies with device,4.4 and up	
+Block Puzzle Classic Legend !,GAME,4.2,17039,4.9M,"5,000,000+",Free,0,Everyone,Puzzle,"April 13, 2018",2.9,2.3.3 and up	
+PAC-MAN,GAME,4.2,685981,37M,"100,000,000+",Free,0,Everyone,Arcade,"May 15, 2018",6.6.3,4.1 and up	
+Super Jim Jump - pixel 3d,GAME,4.5,10393,18M,"1,000,000+",Free,0,Everyone,Arcade,"July 11, 2018",2.2.3181,4.0 and up	
+8 Ball Pool,GAME,4.5,14198297,52M,"100,000,000+",Free,0,Everyone,Sports,"July 31, 2018",4.0.0,4.0.3 and up	
+Magic Tiles 3,GAME,4.5,592068,Varies with device,"50,000,000+",Free,0,Everyone,Music,"August 3, 2018",5.13.007,4.1 and up	
+Bubble Witch 3 Saga,GAME,4.7,1732263,78M,"50,000,000+",Free,0,Everyone,Puzzle,"July 17, 2018",4.8.4,3.0 and up	
+Word Search,GAME,4.7,295241,3.9M,"10,000,000+",Free,0,Everyone,Word,"June 6, 2018",1.1.3,3.0 and up	
+Granny,GAME,4.5,1135631,59M,"50,000,000+",Free,0,Teen,Arcade,"May 29, 2018",1.4.0.1,4.0 and up	
+Angry Birds Classic,GAME,4.4,5566669,97M,"100,000,000+",Free,0,Everyone,Arcade,"May 24, 2018",7.9.3,4.1 and up	
+Flow Free,GAME,4.3,1295557,11M,"100,000,000+",Free,0,Everyone,Puzzle,"April 11, 2018",4.0,4.1 and up	
+Race the Traffic Moto,GAME,3.8,270687,38M,"10,000,000+",Free,0,Teen,Racing,"July 20, 2018",1.0.16,4.0.3 and up	
+Fishdom,GAME,4.6,2157930,Varies with device,"10,000,000+",Free,0,Everyone,Puzzle,"July 19, 2018",2.21.5,4.0.3 and up	
+Galaxy Attack: Alien Shooter,GAME,4.6,506275,Varies with device,"10,000,000+",Free,0,Everyone,Arcade,"August 1, 2018",5.66,4.1 and up	
+Zombie Tsunami,GAME,4.4,4920817,Varies with device,"100,000,000+",Free,0,Everyone 10+,Arcade,"June 15, 2018",Varies with device,Varies with device	
+Bubble Shooter 2,GAME,4.3,23005,Varies with device,"5,000,000+",Free,0,Everyone,Arcade,"July 25, 2018",3.5,4.1 and up	
+Candy Crush Jelly Saga,GAME,4.3,1300490,78M,"50,000,000+",Free,0,Everyone,Puzzle,"July 20, 2018",2.1.10,4.0 and up	
+Hill Climb Racing,GAME,4.4,8923587,63M,"100,000,000+",Free,0,Everyone,Racing,"July 2, 2018",1.37.2,4.2 and up,-,-,GAME/hill_climb.jpeg
+Gardenscapes,GAME,4.6,4128732,Varies with device,"50,000,000+",Free,0,Everyone,Casual,"July 13, 2018",2.6.2,4.0.3 and up	
+Marble - Temple Quest,GAME,4.3,42053,24M,"10,000,000+",Free,0,Everyone,Puzzle,"June 21, 2018",4.9,4.0.3 and up	
+Shooting King,GAME,4.4,257724,69M,"10,000,000+",Free,0,Everyone 10+,Sports,"May 25, 2018",1.4.2,4.0.3 and up	
+Zombie Catchers,GAME,4.7,990491,75M,"10,000,000+",Free,0,Everyone,Action,"May 24, 2018",1.0.27,4.1 and up	
+Minion Rush: Despicable Me Official Game,GAME,4.5,10216538,Varies with device,"100,000,000+",Free,0,Everyone 10+,Casual	Action & Adventure,"July 12, 2018",Varies with device,Varies with device,-,-,GAME/minion_rush.jpeg
+Farm Heroes Saga,GAME,4.4,7614130,70M,"100,000,000+",Free,0,Everyone,Casual,"July 26, 2018",5.1.8,2.3 and up	
+Geometry Dash World,GAME,4.6,760628,63M,"10,000,000+",Free,0,Everyone,Arcade,"December 22, 2017",1.03,4.0 and up,-,-,GAME/gegometry_dash.jpeg	
+My Talking Angela,GAME,4.5,9881829,99M,"100,000,000+",Free,0,Everyone,Casual,"July 3, 2018",3.7.2.51,4.1 and up	
+Cut the Rope FULL FREE,GAME,4.4,2123381,49M,"100,000,000+",Free,0,Everyone,Puzzle,"July 5, 2018",3.7.2,4.1 and up	
+Sniper 3D Gun Shooter: Free Shooting Games - FPS,GAME,4.6,7671249,Varies with device,"100,000,000+",Free,0,Mature 17+,Action,"August 2, 2018",Varies with device,Varies with device	
+Subway Surfers,GAME,4.5,27723193,76M,"1,000,000,000+",Free,0,Everyone 10+,Arcade,"July 12, 2018",1.90.0,4.1 and up,-,-,GAME/subway_surfs.jpeg
+Pou,GAME,4.3,10485334,24M,"500,000,000+",Free,0,Everyone,Casual,"May 25, 2018",1.4.77,4.0 and up	
+8 Ball Pool,GAME,4.5,14198602,52M,"100,000,000+",Free,0,Everyone,Sports,"July 31, 2018",4.0.0,4.0.3 and up	
+Clash of Clans,GAME,4.6,44891723,98M,"100,000,000+",Free,0,Everyone 10+,Strategy,"July 15, 2018",10.322.16,4.1 and up	
+Candy Crush Saga,GAME,4.4,22428456,74M,"500,000,000+",Free,0,Everyone,Casual,"July 5, 2018",1.129.0.2,4.1 and up	
+Plants vs. Zombies FREE,GAME,4.4,4066980,69M,"100,000,000+",Free,0,Everyone 10+,Strategy,"July 6, 2018",2.2.00,4.1 and up	
+Cooking Fever,GAME,4.5,3197865,82M,"100,000,000+",Free,0,Everyone,Arcade,"July 12, 2018",2.8.0,4.0.3 and up	
+Toon Blast,GAME,4.7,1351068,Varies with device,"10,000,000+",Free,0,Everyone,Puzzle,"July 30, 2018",3196,4.1 and up	
+Score! Hero,GAME,4.6,5418675,96M,"100,000,000+",Free,0,Everyone,Sports,"June 13, 2018",1.751,4.4 and up	
+My Talking Angela,GAME,4.5,9881908,99M,"100,000,000+",Free,0,Everyone,Casual,"July 3, 2018",3.7.2.51,4.1 and up	
+Bubble Shooter,GAME,4.5,148895,46M,"10,000,000+",Free,0,Everyone,Casual,"July 17, 2018",1.20.1,4.0.3 and up	
+Toy Blast,GAME,4.7,1889250,Varies with device,"50,000,000+",Free,0,Everyone,Puzzle,"July 23, 2018",5423,4.1 and up	
+Miraculous Ladybug & Cat Noir - The Official Game,GAME,4.5,183846,99M,"10,000,000+",Free,0,Everyone,Action,"July 30, 2018",1.0.6,4.4 and up	
+Wordscapes,GAME,4.8,230710,87M,"10,000,000+",Free,0,Everyone,Word,"August 2, 2018",1.0.47,4.1 and up	
+Word Search,GAME,4.7,295305,3.9M,"10,000,000+",Free,0,Everyone,Word,"June 6, 2018",1.1.3,3.0 and up	
+Candy Crush Soda Saga,GAME,4.4,6198880,67M,"100,000,000+",Free,0,Everyone,Casual,"July 10, 2018",1.118.4,4.1 and up	
+Fishdom,GAME,4.6,2157930,Varies with device,"10,000,000+",Free,0,Everyone,Puzzle,"July 19, 2018",2.21.5,4.0.3 and up	
+Garena Free Fire,GAME,4.5,5465624,53M,"100,000,000+",Free,0,Teen,Action,"August 3, 2018",1.21.0,4.0.3 and up	
+Block Puzzle,GAME,4.6,59854,7.8M,"5,000,000+",Free,0,Everyone,Puzzle,"March 6, 2018",2.9,2.3 and up	
+Bowmasters,GAME,4.7,1534466,Varies with device,"50,000,000+",Free,0,Teen,Action,"July 23, 2018",2.12.5,4.1 and up	
+Clash Royale,GAME,4.6,23134775,97M,"100,000,000+",Free,0,Everyone 10+,Strategy,"June 27, 2018",2.3.2,4.1 and up	
+My Talking Tom,GAME,4.5,14891223,Varies with device,"500,000,000+",Free,0,Everyone,Casual,"July 19, 2018",4.8.0.132,4.1 and up	
+Sniper 3D Gun Shooter: Free Shooting Games - FPS,GAME,4.6,7672495,Varies with device,"100,000,000+",Free,0,Mature 17+,Action,"August 2, 2018",Varies with device,Varies with device	
+Granny,GAME,4.5,1137271,59M,"50,000,000+",Free,0,Teen,Arcade,"May 29, 2018",1.4.0.1,4.0 and up	
+Galaxy Attack: Alien Shooter,GAME,4.6,506275,Varies with device,"10,000,000+",Free,0,Everyone,Arcade,"August 1, 2018",5.66,4.1 and up	
+Angry Birds Rio,GAME,4.4,2610622,46M,"100,000,000+",Free,0,Everyone,Arcade,"July 3, 2018",2.6.9,4.1 and up	
+Zombie Catchers,GAME,4.7,990586,75M,"10,000,000+",Free,0,Everyone,Action,"May 24, 2018",1.0.27,4.1 and up	
+Zombie Hunter King,GAME,4.3,10354,50M,"1,000,000+",Free,0,Mature 17+,Action,"August 1, 2018",1.0.8,2.3 and up	
+Temple Run 2,GAME,4.3,8118937,62M,"500,000,000+",Free,0,Everyone,Action,"July 5, 2018",1.49.1,4.0 and up,-,-,GAME/temple_run.jpeg
+Zombie Tsunami,GAME,4.4,4921122,Varies with device,"100,000,000+",Free,0,Everyone 10+,Arcade,"June 15, 2018",Varies with device,Varies with device	
+Jungle Marble Blast,GAME,4.3,18985,23M,"5,000,000+",Free,0,Everyone,Casual,"July 23, 2018",1.5.4,4.0.3 and up	
+Rider,GAME,4.5,655067,72M,"10,000,000+",Free,0,Teen,Arcade,"July 17, 2017",1.2.1,4.0.3 and up	
+Farm Heroes Saga,GAME,4.4,7614271,70M,"100,000,000+",Free,0,Everyone,Casual,"July 26, 2018",5.1.8,2.3 and up	
+Super Jim Jump - pixel 3d,GAME,4.5,10434,18M,"1,000,000+",Free,0,Everyone,Arcade,"July 11, 2018",2.2.3181,4.0 and up	
+slither.io,GAME,4.4,5234825,Varies with device,"100,000,000+",Free,0,Everyone,Action,"November 14, 2017",Varies with device,2.3 and up	
+Roll the BallВ® - slide puzzle,GAME,4.5,1385093,35M,"100,000,000+",Free,0,Everyone,Puzzle,"August 2, 2018",1.7.40,4.1 and up	
+Talking Tom Gold Run,GAME,4.6,2698348,78M,"100,000,000+",Free,0,Everyone,Action,"July 31, 2018",2.8.2.59,4.1 and up	
+Pixel Art: Color by Number Game,GAME,4.7,1125017,25M,"10,000,000+",Free,0,Everyone,Puzzle,"July 17, 2018",3.9.2,4.3 and up	
+Dream League Soccer 2018,GAME,4.6,9882639,74M,"100,000,000+",Free,0,Everyone,Sports,"July 16, 2018",5.064,4.4 and up	
+Angry Birds Classic,GAME,4.4,5566805,97M,"100,000,000+",Free,0,Everyone,Arcade,"May 24, 2018",7.9.3,4.1 and up	
+Fruits Bomb,GAME,4.4,74673,17M,"10,000,000+",Free,0,Everyone,Casual,"July 6, 2018",3.3.3179,4.0.3 and up	
+Traffic Racer,GAME,4.5,5387639,53M,"100,000,000+",Free,0,Everyone,Racing,"February 27, 2018",2.5,4.1 and up	
+Hill Climb Racing 2,GAME,4.6,2750410,Varies with device,"100,000,000+",Free,0,Everyone,Racing,"August 2, 2018",1.17.2,4.2 and up	
+Flow Free,GAME,4.3,1295606,11M,"100,000,000+",Free,0,Everyone,Puzzle,"April 11, 2018",4.0,4.1 and up	
+Knife Hit,GAME,4.5,461137,60M,"10,000,000+",Free,0,Everyone,Arcade,"May 22, 2018",1.7.2,4.0.3 and up	
+Block Craft 3D: Building Simulator Games For Free,GAME,4.5,946926,57M,"50,000,000+",Free,0,Everyone,Simulation,"March 5, 2018",2.10.2,4.0.3 and up	
+Farm Fruit Pop: Party Time,GAME,4.4,9305,14M,"1,000,000+",Free,0,Everyone,Casual,"August 2, 2018",1.9.2,4.0.3 and up	
+Helix Jump,GAME,4.2,1498648,33M,"100,000,000+",Free,0,Everyone,Action,"April 9, 2018",1.0.6,4.1 and up	
+Subway Surfers,GAME,4.5,27724094,76M,"1,000,000,000+",Free,0,Everyone 10+,Arcade,"July 12, 2018",1.90.0,4.1 and up	
+Candy Crush Saga,GAME,4.4,22428456,74M,"500,000,000+",Free,0,Everyone,Casual,"July 5, 2018",1.129.0.2,4.1 and up	
+Toon Blast,GAME,4.7,1351089,Varies with device,"10,000,000+",Free,0,Everyone,Puzzle,"July 30, 2018",3196,4.1 and up	
+Love Balls,GAME,4.2,360630,40M,"50,000,000+",Free,0,Everyone,Puzzle,"July 31, 2018",1.2.7,4.1 and up	
+Granny,GAME,4.5,1137267,59M,"50,000,000+",Free,0,Teen,Arcade,"May 29, 2018",1.4.0.1,4.0 and up	
+8 Ball Pool,GAME,4.5,14200344,52M,"100,000,000+",Free,0,Everyone,Sports,"July 31, 2018",4.0.0,4.0.3 and up	
+Sniper 3D Gun Shooter: Free Shooting Games - FPS,GAME,4.6,7672495,Varies with device,"100,000,000+",Free,0,Mature 17+,Action,"August 2, 2018",Varies with device,Varies with device	
+slither.io,GAME,4.4,5234810,Varies with device,"100,000,000+",Free,0,Everyone,Action,"November 14, 2017",Varies with device,2.3 and up	
+Hungry Shark Evolution,GAME,4.5,6074334,100M,"100,000,000+",Free,0,Teen,Arcade,"July 25, 2018",6.0.0,4.1 and up
+Kick the Buddy,GAME,4.3,1000417,Varies with device,"50,000,000+",Free,0,Teen,Action,"July 5, 2018",Varies with device,4.4 and up	
+Magic Tiles 3,GAME,4.5,592282,Varies with device,"50,000,000+",Free,0,Everyone,Music,"August 3, 2018",5.13.007,4.1 and up	
+Bowmasters,GAME,4.7,1535084,Varies with device,"50,000,000+",Free,0,Teen,Action,"July 23, 2018",2.12.5,4.1 and up	
+Piano Tiles 2в„ў,GAME,4.7,8118880,Varies with device,"100,000,000+",Free,0,Everyone,Arcade,"August 3, 2018",3.1.0.226,4.1 and up	
+PokГ©mon GO,GAME,4.1,10424925,85M,"100,000,000+",Free,0,Everyone,Adventure,"July 23, 2018",0.111.3,4.4 and up	
+Wordscapes,GAME,4.8,230727,87M,"10,000,000+",Free,0,Everyone,Word,"August 2, 2018",1.0.47,4.1 and up	
+Paint Hit,GAME,4.4,37023,33M,"10,000,000+",Free,0,Everyone,Casual,"July 6, 2018",5.200,5.0 and up	
+Snake VS Block,GAME,4.2,422244,32M,"50,000,000+",Free,0,Teen,Arcade,"April 23, 2018",1.24,4.1 and up	
+Rolly Vortex,GAME,4.4,98123,40M,"10,000,000+",Free,0,Teen,Arcade,"May 25, 2018",1.7.0,4.1 and up	
+Woody Puzzle,GAME,4.7,21262,29M,"1,000,000+",Free,0,Everyone,Puzzle,"August 3, 2018",1.0.9,4.4 and up	
+Stack Jump,GAME,4.3,118253,40M,"10,000,000+",Free,0,Teen,Arcade,"May 3, 2018",1.4.6,4.1 and up	
+Color by Number вЂ“ New Coloring Book,GAME,4.7,141529,24M,"5,000,000+",Free,0,Everyone 10+,Board,"August 1, 2018",2.0.6,4.1 and up	
+The Cube,GAME,4.2,70226,38M,"5,000,000+",Free,0,Everyone,Arcade,"July 25, 2018",1.2.9,4.1 and up	
+Extreme Car Driving Simulator,GAME,4.3,2251012,52M,"100,000,000+",Free,0,Everyone,Racing,"May 3, 2018",4.17.2,4.0 and up	
+Bricks n Balls,GAME,4.4,30253,Varies with device,"1,000,000+",Free,0,Everyone,Casual,"August 5, 2018",1.0.1.049,4.1 and up	
+The Fish Master!,GAME,4.1,15763,54M,"1,000,000+",Free,0,Everyone,Arcade,"July 17, 2018",1.6,4.1 and up	
+Color Road,GAME,4.1,84911,71M,"10,000,000+",Free,0,Everyone,Arcade,"July 19, 2018",2.5.0,4.1 and up	
+Draw In,GAME,4.2,46416,73M,"10,000,000+",Free,0,Everyone,Arcade,"July 23, 2018",1.0.8,4.1 and up	
+Block Craft 3D: Building Simulator Games For Free,GAME,4.5,946926,57M,"50,000,000+",Free,0,Everyone,Simulation,"March 5, 2018",2.10.2,4.0.3 and up	
+PLANK!,GAME,4.7,7196,38M,"500,000+",Free,0,Everyone,Arcade,"July 17, 2018",1.0.2,4.3 and up	
+Looper!,GAME,4.6,48256,62M,"1,000,000+",Free,0,Everyone,Puzzle,"July 20, 2018",1.2.0,4.1 and up	
+Trivia Crack,GAME,4.5,6427773,95M,"100,000,000+",Free,0,Everyone,Trivia,"August 3, 2018",2.79.0,4.1 and up	
+Will it Crush?,GAME,3.1,25825,16M,"5,000,000+",Free,0,Everyone,Simulation,"May 22, 2018",1.3.3,4.4 and up	
+Tomb of the Mask,GAME,4.1,55380,39M,"5,000,000+",Free,0,Everyone,Action,"July 24, 2018",1.2.1,5.0 and up	
+Baseball Boy!,GAME,3.4,148177,78M,"10,000,000+",Free,0,Everyone,Arcade,"July 27, 2018",1.7.2,4.1 and up	
+PUBG MOBILE,GAME,4.4,3715656,36M,"50,000,000+",Free,0,Teen,Action,"July 24, 2018",0.7.0,4.3 and up	
+Episode - Choose Your Story,GAME,4.3,1841061,Varies with device,"50,000,000+",Free,0,Teen,Simulation,"July 31, 2018",Varies with device,Varies with device	
+Hello Stars,GAME,4.6,101686,31M,"10,000,000+",Free,0,Everyone,Puzzle,"August 4, 2018",1.8.2,4.1 and up	
+Run Sausage Run!,GAME,4.4,275447,Varies with device,"10,000,000+",Free,0,Everyone 10+,Arcade,"August 1, 2018",Varies with device,4.1 and up	
+Tank Stars,GAME,4.3,174755,98M,"10,000,000+",Free,0,Everyone 10+,Arcade,"July 11, 2018",1.1.1,5.0 and up	
+Castle Clash: Heroes of the Empire US,GAME,4.6,4578476,24M,"50,000,000+",Free,0,Everyone 10+,Strategy,"July 17, 2018",1.4.51,4.1 and up	
+Hole.io,GAME,4.2,145353,85M,"10,000,000+",Free,0,Teen,Arcade,"July 24, 2018",1.3.1,4.1 and up	
+Helix Jump,GAME,4.2,1499373,33M,"100,000,000+",Free,0,Everyone,Action,"April 9, 2018",1.0.6,4.1 and up	
+Mini Golf King - Multiplayer Game,GAME,4.5,531458,100M,"5,000,000+",Free,0,Everyone,Sports,"July 20, 2018",3.04.1,4.0.3 and up	
+PUBG MOBILE,GAME,4.4,3714270,36M,"50,000,000+",Free,0,Teen,Action,"July 24, 2018",0.7.0,4.3 and up	
+Flip the Gun - Simulator Game,GAME,4.2,195558,86M,"10,000,000+",Free,0,Everyone,Arcade,"July 26, 2018",1.2,5.0 and up	
+Mad Skills BMX 2,GAME,4.5,29940,80M,"1,000,000+",Free,0,Everyone,Action,"July 26, 2018",1.1.4,4.1 and up	
+Wordscapes,GAME,4.8,230727,87M,"10,000,000+",Free,0,Everyone,Word,"August 2, 2018",1.0.47,4.1 and up	
+MMX Hill Dash 2 вЂ“ Offroad Truck, Car & Bike Racing,GAME,4.4,41975,79M,"1,000,000+",Free,0,Everyone,Racing,"July 19, 2018",3.00.11034,5.0 and up	
+Word Link,GAME,4.6,216675,30M,"10,000,000+",Free,0,Everyone,Word,"August 1, 2018",2.2.7,4.1 and up	
+Last Day on Earth: Survival,GAME,4.5,2311785,87M,"10,000,000+",Free,0,Teen,Action,"August 1, 2018",1.9.3,4.1 and up	
+MARVEL Strike Force,GAME,4.3,165888,91M,"5,000,000+",Free,0,Teen,Role Playing,"July 31, 2018",1.4.0,4.4 and up	
+Partymasters - Fun Idle Game,GAME,4.6,541144,63M,"10,000,000+",Free,0,Teen,Arcade,"July 12, 2018",1.2.5,5.0 and up	
+Harry Potter: Hogwarts Mystery,GAME,4.4,1107310,Varies with device,"10,000,000+",Free,0,Teen,Adventure,"August 1, 2018",1.8.2,4.4 and up	
+Offroad Outlaws,GAME,4.4,29168,Varies with device,"1,000,000+",Free,0,Everyone,Racing,"May 29, 2018",2.0.1,4.1 and up	
+Grim Soul: Dark Fantasy Survival,GAME,4.5,189773,95M,"5,000,000+",Free,0,Teen,Role Playing,"July 18, 2018",1.1.1,4.1 and up	
+DRAGON BALL LEGENDS,GAME,4.6,337752,48M,"5,000,000+",Free,0,Teen,Action,"August 3, 2018",1.11.0,6.0 and up	
+Disney Heroes: Battle Mode,GAME,4.6,102107,Varies with device,"5,000,000+",Free,0,Everyone 10+,Strategy,"July 31, 2018",1.2.2,Varies with device	
+Homescapes,GAME,4.6,3093358,Varies with device,"10,000,000+",Free,0,Everyone,Casual,"July 13, 2018",1.8.0.900,4.0.3 and up	
+New YAHTZEEВ® With Buddies Dice Game,GAME,4.1,42079,93M,"5,000,000+",Free,0,Everyone,Board,"July 5, 2018",5.6.5,4.1 and up	
+Word Crossy - A crossword game,GAME,4.5,240416,53M,"5,000,000+",Free,0,Everyone,Word,"August 1, 2018",2.2.3,4.0.3 and up	
+MLB TAP SPORTS BASEBALL 2018,GAME,4.6,32506,82M,"1,000,000+",Free,0,Everyone,Sports,"June 27, 2018",1.2.1,4.2 and up	
+Hero Hunters,GAME,4.4,70747,99M,"5,000,000+",Free,0,Teen,Action,"July 31, 2018",1.7,4.4 and up	
+Cooking Madness - A Chef's Restaurant Games,GAME,4.7,358817,49M,"10,000,000+",Free,0,Everyone,Arcade,"July 30, 2018",1.2.2,4.1 and up	
+Ice Crush 2018 - A new Puzzle Matching Adventure,GAME,4.6,15403,25M,"1,000,000+",Free,0,Everyone,Casual,"August 2, 2018",1.8.1,4.1 and up	
+TerraGenesis - Space Colony,GAME,4.3,38957,Varies with device,"1,000,000+",Free,0,Everyone,Simulation,"August 2, 2018",4.9.31,Varies with device	
+Merge Dragons!,GAME,4.5,214777,91M,"5,000,000+",Free,0,Everyone,Puzzle,"July 30, 2018",3.6.0,4.1 and up	
+SHADOWGUN LEGENDS,GAME,4.6,100609,52M,"1,000,000+",Free,0,Teen,Action,"July 16, 2018",0.5.4,6.0 and up	
+RULES OF SURVIVAL,GAME,4.2,1343866,56M,"10,000,000+",Free,0,Teen,Action,"August 1, 2018",1.180271.184729,4.0 and up	
+Mafia City,GAME,4.5,168717,56M,"10,000,000+",Free,0,Mature 17+,Strategy,"August 3, 2018",1.3.205,2.3 and up	
+Cash, Inc. Money Clicker Game & Business Adventure,GAME,4.8,549720,85M,"10,000,000+",Free,0,Everyone,Simulation,"July 19, 2018",2.1.1.4.0,4.4 and up	
+Dino War: Rise of Beasts,GAME,4.1,18996,81M,"1,000,000+",Free,0,Teen,Strategy,"August 1, 2018",1.5.2,4.1 and up,-,-,GAME/dino_war.jpeg
+Tokyo Ghoul: Dark War,GAME,4.3,25094,82M,"1,000,000+",Free,0,Teen,Role Playing,"July 6, 2018",1.2.0,4.3 and up	
+Last Shelter: Survival,GAME,4.4,93033,98M,"5,000,000+",Free,0,Teen,Strategy,"August 4, 2018",1.250.078,4.0.3 and up	
+Guns of Glory,GAME,4.0,120592,77M,"10,000,000+",Free,0,Everyone 10+,Strategy,"July 31, 2018",2.0.2,4.0.3 and up	
+Lineage 2: Revolution,GAME,4.2,187972,99M,"5,000,000+",Free,0,Teen,Role Playing,"July 11, 2018",1.05.20,4.4 and up	
+Final Fantasy XV: A New Empire,GAME,4.0,484981,Varies with device,"10,000,000+",Free,0,Everyone 10+,Strategy,"June 15, 2018",3.30.4.83,4.1 and up	
+Girls' Frontline,GAME,4.2,2055,96M,"100,000+",Free,0,Teen,Strategy,"May 18, 2018",2.0081_206,4.0.3 and up	
+Chapters: Interactive Stories,GAME,4.5,73539,96M,"1,000,000+",Free,0,Mature 17+,Role Playing,"August 2, 2018",1.3.3,4.3 and up	
+Honkai Impact 3rd,GAME,4.7,59017,82M,"1,000,000+",Free,0,Teen,Action,"July 3, 2018",2.2.1,4.3 and up	
+Master of Eternity(MOE),GAME,4.2,5829,70M,"100,000+",Free,0,Teen,Strategy,"July 26, 2018",1.8.2,4.4 and up	
+The Game of Life,GAME,4.4,18621,63M,"100,000+",Paid,$2.99,Everyone,Board,"July 4, 2018",2.1.2,4.4 and up	
+Clue,GAME,4.6,19922,35M,"100,000+",Paid,$1.99,Everyone 10+,Board,"July 30, 2018",2.2.5,5.0 and up	
+The Room: Old Sins,GAME,4.9,21119,48M,"100,000+",Paid,$4.99,Everyone,Puzzle,"April 18, 2018",1.0.1,4.4 and up	
+The Escapists,GAME,4.4,7412,84M,"100,000+",Paid,$4.99,Teen,Strategy,"April 26, 2018",1.1.0,2.3 and up	
+RollerCoaster TycoonВ® Classic,GAME,4.6,10795,69M,"100,000+",Paid,$5.99,Everyone,Simulation,"December 21, 2017",1.2.1.1712080,4.0.3 and up	
+Call of Duty:Black Ops Zombies,GAME,4.2,13004,46M,"100,000+",Paid,$6.99,Teen,Action,"December 20, 2016",1.0.11,2.3.3 and up	
+Star Wars в„ў: DIRTY,GAME,4.5,38207,15M,"100,000+",Paid,$9.99,Teen,Role Playing,"October 19, 2015",1.0.6,4.1 and up	
+Monument Valley 2,GAME,4.6,9394,33M,"100,000+",Paid,$4.99,Everyone,Puzzle,"November 30, 2017",1.2.9,4.4 and up	
+DRAGON BALL LEGENDS,GAME,4.6,337913,48M,"5,000,000+",Free,0,Teen,Action,"August 3, 2018",1.11.0,6.0 and up	
+Candy Crush Saga,GAME,4.4,22429716,74M,"500,000,000+",Free,0,Everyone,Casual,"July 5, 2018",1.129.0.2,4.1 and up	
+Angry Birds 2,GAME,4.6,3883589,57M,"100,000,000+",Free,0,Everyone,Casual,"July 26, 2018",2.21.1,4.1 and up	
+8 Ball Pool,GAME,4.5,14200550,52M,"100,000,000+",Free,0,Everyone,Sports,"July 31, 2018",4.0.0,4.0.3 and up	
+Fallout Shelter,GAME,4.6,2719142,25M,"10,000,000+",Free,0,Teen,Simulation,"June 11, 2018",1.13.12,4.1 and up	
+Harry Potter: Hogwarts Mystery,GAME,4.4,1107197,Varies with device,"10,000,000+",Free,0,Teen,Adventure,"August 1, 2018",1.8.2,4.4 and up	
+PUBG MOBILE,GAME,4.4,3716278,36M,"50,000,000+",Free,0,Teen,Action,"July 24, 2018",0.7.0,4.3 and up	
+The Simsв„ў FreePlay,GAME,4.3,931595,31M,"10,000,000+",Free,0,Teen,Simulation,"July 16, 2018",5.39.1,4.0.3 and up	
+MARVEL Strike Force,GAME,4.3,165928,91M,"5,000,000+",Free,0,Teen,Role Playing,"July 31, 2018",1.4.0,4.4 and up	
+Best Fiends - Free Puzzle Game,GAME,4.6,1480189,Varies with device,"10,000,000+",Free,0,Everyone,Casual,"August 2, 2018",5.8.1,Varies with device	
+MARVEL Contest of Champions,GAME,4.3,2468063,92M,"50,000,000+",Free,0,Teen,Action,"July 30, 2018",19.1.0,4.0.3 and up	
+Jurassic Worldв„ў Alive,GAME,4.3,309176,70M,"5,000,000+",Free,0,Everyone 10+,Simulation,"August 2, 2018",1.3.15,4.4 and up	
+Choices: Stories You Play,GAME,4.6,807338,93M,"10,000,000+",Free,0,Teen,Simulation,"July 30, 2018",2.3.5,4.0.3 and up	
+Solitaire TriPeaks,GAME,4.5,446434,52M,"10,000,000+",Free,0,Everyone,Card,"August 1, 2018",4.6.2.46103,4.0.3 and up	
+Merge Dragons!,GAME,4.5,214819,91M,"5,000,000+",Free,0,Everyone,Puzzle,"July 30, 2018",3.6.0,4.1 and up	
+The Walking Dead: Road to Survival,GAME,4.2,522466,37M,"10,000,000+",Free,0,Mature 17+,Role Playing,"June 19, 2018",12.0.4.62276,4.0.3 and up	
+Hustle Castle: Fantasy Kingdom,GAME,4.7,584126,64M,"10,000,000+",Free,0,Everyone 10+,Role Playing,"July 27, 2018",1.5.4,4.1 and up	
+Might & Magic: Elemental Guardians,GAME,4.3,32551,35M,"500,000+",Free,0,Mature 17+,Role Playing,"July 12, 2018",1.93,4.4 and up	
+Game of Thrones: Conquestв„ў,GAME,4.0,90218,97M,"1,000,000+",Free,0,Teen,Strategy,"August 3, 2018",1.8.225278,6.0 and up	
+Love Nikki-Dress UP Queen,GAME,4.4,212524,93M,"5,000,000+",Free,0,Everyone,Role Playing,"July 24, 2018",3.0.0,4.0.3 and up	
+Summoners War,GAME,4.3,2045554,28M,"50,000,000+",Free,0,Teen,Role Playing,"July 30, 2018",4.0.1,4.0.3 and up	
+FINAL FANTASY BRAVE EXVIUS,GAME,4.6,745684,83M,"5,000,000+",Free,0,Teen,Role Playing,"July 17, 2018",3.0.2,4.0.3 and up	
+Idle Heroes,GAME,4.7,416540,99M,"10,000,000+",Free,0,Everyone 10+,Role Playing,"May 30, 2018",1.14.0,2.3 and up	
+Fate/Grand Order (English),GAME,4.4,16601,55M,"500,000+",Free,0,Teen,Role Playing,"July 26, 2018",1.18.0,4.0 and up	
+Honkai Impact 3rd,GAME,4.7,59017,82M,"1,000,000+",Free,0,Teen,Action,"July 3, 2018",2.2.1,4.3 and up	
+Lords Mobile: Battle of the Empires - Strategy RPG,GAME,4.4,3057481,14M,"50,000,000+",Free,0,Teen,Strategy,"July 26, 2018",1.76,2.3 and up	
+War and Order,GAME,4.3,224514,81M,"5,000,000+",Free,0,Teen,Strategy,"July 18, 2018",1.1.8,4.0.3 and up	
+Dungeon Hunter Champions: Epic Online Action RPG,GAME,4.2,26247,Varies with device,"1,000,000+",Free,0,Teen,Role Playing,"July 26, 2018",1.1.40,4.0.3 and up	
+Candy Crush Saga,GAME,4.4,22430188,74M,"500,000,000+",Free,0,Everyone,Casual,"July 5, 2018",1.129.0.2,4.1 and up	
+8 Ball Pool,GAME,4.5,14201891,52M,"100,000,000+",Free,0,Everyone,Sports,"July 31, 2018",4.0.0,4.0.3 and up	
+Subway Surfers,GAME,4.5,27725352,76M,"1,000,000,000+",Free,0,Everyone 10+,Arcade,"July 12, 2018",1.90.0,4.1 and up	
+Candy Crush Soda Saga,GAME,4.4,6199095,67M,"100,000,000+",Free,0,Everyone,Casual,"July 10, 2018",1.118.4,4.1 and up	
+Zombie Hunter King,GAME,4.3,10493,50M,"1,000,000+",Free,0,Mature 17+,Action,"August 1, 2018",1.0.8,2.3 and up	
+Bubble Shooter,GAME,4.5,148945,46M,"10,000,000+",Free,0,Everyone,Casual,"July 17, 2018",1.20.1,4.0.3 and up	
+Toon Blast,GAME,4.7,1351771,Varies with device,"10,000,000+",Free,0,Everyone,Puzzle,"July 30, 2018",3196,4.1 and up	
+Toy Blast,GAME,4.7,1889582,Varies with device,"50,000,000+",Free,0,Everyone,Puzzle,"July 23, 2018",5423,4.1 and up	
+Clash Royale,GAME,4.6,23136735,97M,"100,000,000+",Free,0,Everyone 10+,Strategy,"June 27, 2018",2.3.2,4.1 and up	
+Clash of Clans,GAME,4.6,44893888,98M,"100,000,000+",Free,0,Everyone 10+,Strategy,"July 15, 2018",10.322.16,4.1 and up	
+Farm Heroes Saga,GAME,4.4,7614415,70M,"100,000,000+",Free,0,Everyone,Casual,"July 26, 2018",5.1.8,2.3 and up	
+Plants vs. Zombies FREE,GAME,4.4,4067651,69M,"100,000,000+",Free,0,Everyone 10+,Strategy,"July 6, 2018",2.2.00,4.1 and up	
+Word Search,GAME,4.7,295576,3.9M,"10,000,000+",Free,0,Everyone,Word,"June 6, 2018",1.1.3,3.0 and up	
+Block Puzzle,GAME,4.6,59907,7.8M,"5,000,000+",Free,0,Everyone,Puzzle,"March 6, 2018",2.9,2.3 and up	
+Super Jim Jump - pixel 3d,GAME,4.5,10460,18M,"1,000,000+",Free,0,Everyone,Arcade,"July 11, 2018",2.2.3181,4.0 and up	
+Pou,GAME,4.3,10486018,24M,"500,000,000+",Free,0,Everyone,Casual,"May 25, 2018",1.4.77,4.0 and up	
+Flow Free,GAME,4.3,1295625,11M,"100,000,000+",Free,0,Everyone,Puzzle,"April 11, 2018",4.0,4.1 and up	
+Homescapes,GAME,4.6,3093932,Varies with device,"10,000,000+",Free,0,Everyone,Casual,"July 13, 2018",1.8.0.900,4.0.3 and up	
+Wordscapes,GAME,4.8,230849,87M,"10,000,000+",Free,0,Everyone,Word,"August 2, 2018",1.0.47,4.1 and up	
+My Talking Angela,GAME,4.5,9883367,99M,"100,000,000+",Free,0,Everyone,Casual,"July 3, 2018",3.7.2.51,4.1 and up	
+slither.io,GAME,4.4,5235294,Varies with device,"100,000,000+",Free,0,Everyone,Action,"November 14, 2017",Varies with device,2.3 and up	
+Cooking Fever,GAME,4.5,3198176,82M,"100,000,000+",Free,0,Everyone,Arcade,"July 12, 2018",2.8.0,4.0.3 and up	
+Yes day,GAME,4.5,10055521,94M,"100,000,000+",Free,0,Everyone,Casual,"June 28, 2018",1_39_93,4.0.3 and up	
+Gardenscapes,GAME,4.6,4129665,Varies with device,"50,000,000+",Free,0,Everyone,Casual,"July 13, 2018",2.6.2,4.0.3 and up	
+Fishdom,GAME,4.6,2158580,Varies with device,"10,000,000+",Free,0,Everyone,Puzzle,"July 19, 2018",2.21.5,4.0.3 and up	
+Galaxy Attack: Alien Shooter,GAME,4.6,506593,Varies with device,"10,000,000+",Free,0,Everyone,Arcade,"August 1, 2018",5.66,4.1 and up	
+Score! Hero,GAME,4.6,5419676,96M,"100,000,000+",Free,0,Everyone,Sports,"June 13, 2018",1.751,4.4 and up	
+Zombie Catchers,GAME,4.7,990723,75M,"10,000,000+",Free,0,Everyone,Action,"May 24, 2018",1.0.27,4.1 and up	
+Magic Tiles 3,GAME,4.5,592504,Varies with device,"50,000,000+",Free,0,Everyone,Music,"August 3, 2018",5.13.007,4.1 and up	
+Jewels Star: OZ adventure,GAME,4.5,21892,14M,"1,000,000+",Free,0,Everyone,Puzzle,"December 29, 2017",1.3,4.0 and up	
+Granny,GAME,4.5,1138239,59M,"50,000,000+",Free,0,Teen,Arcade,"May 29, 2018",1.4.0.1,4.0 and up	
+Dream League Soccer 2018,GAME,4.6,9883806,74M,"100,000,000+",Free,0,Everyone,Sports,"July 16, 2018",5.064,4.4 and up	
+Sweet Fruit Candy,GAME,4.5,197540,29M,"10,000,000+",Free,0,Everyone,Puzzle,"July 16, 2018",79.0,4.1 and up	
+Fruits Bomb,GAME,4.4,74695,17M,"10,000,000+",Free,0,Everyone,Casual,"July 6, 2018",3.3.3179,4.0.3 and up	
+Angry Birds Classic,GAME,4.4,5566889,97M,"100,000,000+",Free,0,Everyone,Arcade,"May 24, 2018",7.9.3,4.1 and up	
+Talking Tom Gold Run,GAME,4.6,2698882,78M,"100,000,000+",Free,0,Everyone,Action,"July 31, 2018",2.8.2.59,4.1 and up	
+Bowmasters,GAME,4.7,1535973,Varies with device,"50,000,000+",Free,0,Teen,Action,"July 23, 2018",2.12.5,4.1 and up	
+My Talking Tom,GAME,4.5,14892469,Varies with device,"500,000,000+",Free,0,Everyone,Casual,"July 19, 2018",4.8.0.132,4.1 and up	
+Hill Climb Racing,GAME,4.4,8923818,63M,"100,000,000+",Free,0,Everyone,Racing,"July 2, 2018",1.37.2,4.2 and up	
+Sniper 3D Gun Shooter: Free Shooting Games - FPS,GAME,4.6,7674252,Varies with device,"100,000,000+",Free,0,Mature 17+,Action,"August 2, 2018",Varies with device,Varies with device	
+Pixel Art: Color by Number Game,GAME,4.7,1125438,25M,"10,000,000+",Free,0,Everyone,Puzzle,"July 17, 2018",3.9.2,4.3 and up	
+Shoot Bubble - Fruit Splash,GAME,4.6,29445,29M,"5,000,000+",Free,0,Everyone,Casual,"May 11, 2018",14.0,4.0.3 and up	
+Rider,GAME,4.5,655145,72M,"10,000,000+",Free,0,Teen,Arcade,"July 17, 2017",1.2.1,4.0.3 and up	
+Zombie Tsunami,GAME,4.4,4921451,Varies with device,"100,000,000+",Free,0,Everyone 10+,Arcade,"June 15, 2018",Varies with device,Varies with device	
+Garena Free Fire,GAME,4.5,5476569,53M,"100,000,000+",Free,0,Teen,Action,"August 3, 2018",1.21.0,4.0.3 and up
+Doodle Jump,GAME,4.3,1083571,Varies with device,"50,000,000+",Free,0,Everyone,Arcade,"July 20, 2018",Varies with device,Varies with device	
+Subway Surfers,GAME,4.5,27725352,76M,"1,000,000,000+",Free,0,Everyone 10+,Arcade,"July 12, 2018",1.90.0,4.1 and up	
+Helix Jump,GAME,4.2,1500999,33M,"100,000,000+",Free,0,Everyone,Action,"April 9, 2018",1.0.6,4.1 and up	
+Crossy Road,GAME,4.5,4230886,60M,"100,000,000+",Free,0,Everyone,Action,"August 1, 2018",3.1.0,5.0 and up
+slither.io,GAME,4.4,5235294,Varies with device,"100,000,000+",Free,0,Everyone,Action,"November 14, 2017",Varies with device,2.3 and up	
+Bowmasters,GAME,4.7,1535973,Varies with device,"50,000,000+",Free,0,Teen,Action,"July 23, 2018",2.12.5,4.1 and up	
+Talking Tom Gold Run,GAME,4.6,2698889,78M,"100,000,000+",Free,0,Everyone,Action,"July 31, 2018",2.8.2.59,4.1 and up	
+Zombie Catchers,GAME,4.7,990663,75M,"10,000,000+",Free,0,Everyone,Action,"May 24, 2018",1.0.27,4.1 and up	
+Sniper 3D Gun Shooter: Free Shooting Games - FPS,GAME,4.6,7674252,Varies with device,"100,000,000+",Free,0,Mature 17+,Action,"August 2, 2018",Varies with device,Varies with device	
+Swamp Attack,GAME,4.4,2119218,70M,"50,000,000+",Free,0,Everyone 10+,Action,"June 29, 2018",3.0.1,4.1 and up	
+Earn to Die 2,GAME,4.6,1327265,99M,"50,000,000+",Free,0,Teen,Racing,"April 12, 2017",1.3,2.3.3 and up	
+Miraculous Ladybug & Cat Noir - The Official Game,GAME,4.5,184210,99M,"10,000,000+",Free,0,Everyone,Action,"July 30, 2018",1.0.6,4.4 and up	
+Kick the Buddy,GAME,4.3,1003269,Varies with device,"50,000,000+",Free,0,Teen,Action,"July 5, 2018",Varies with device,4.4 and up	
+Hungry Shark World,GAME,4.5,1242855,27M,"50,000,000+",Free,0,Teen,Action,"July 18, 2018",3.0.0,4.2 and up	
+Dude Perfect 2,GAME,4.5,401425,70M,"10,000,000+",Free,0,Everyone,Action,"April 12, 2017",1.6.1,4.0.3 and up	
+Shadow Fight 2,GAME,4.6,10979062,88M,"100,000,000+",Free,0,Everyone 10+,Action,"July 2, 2018",1.9.38,3.0 and up	
+Alto's Adventure,GAME,4.6,515657,63M,"10,000,000+",Free,0,Everyone,Action,"June 5, 2018",1.7.1,4.0 and up	
+DEER HUNTER 2018,GAME,4.3,955656,82M,"10,000,000+",Free,0,Teen,Action,"June 26, 2018",5.1.2,3.0 and up	
+DRAGON BALL LEGENDS,GAME,4.6,337913,48M,"5,000,000+",Free,0,Teen,Action,"August 3, 2018",1.11.0,6.0 and up	
+DEAD TARGET: FPS Zombie Apocalypse Survival Games,GAME,4.5,1468591,Varies with device,"50,000,000+",Free,0,Mature 17+,Action,"July 23, 2018",Varies with device,Varies with device	
+Cover Fire: offline shooting games for free,GAME,4.7,725897,31M,"10,000,000+",Free,0,Teen,Action,"August 3, 2018",1.8.20,4.1 and up	
+Anger of stick 5 : zombie,GAME,4.5,549039,23M,"50,000,000+",Free,0,Teen,Action,"August 3, 2018",1.1.5,2.3 and up	
+CATS: Crash Arena Turbo Stars,GAME,4.7,1559650,Varies with device,"50,000,000+",Free,0,Everyone,Action,"July 9, 2018",2.11.1,4.1 and up	
+Soul Knight,GAME,4.7,292164,59M,"10,000,000+",Free,0,Everyone 10+,Action,"August 1, 2018",1.8.4,4.1 and up	
+Major Mayhem,GAME,4.6,520962,39M,"10,000,000+",Free,0,Teen,Action,"June 28, 2017",108,4.0 and up	
+DINO HUNTER: DEADLY SHORES,GAME,4.4,1381820,54M,"10,000,000+",Free,0,Teen,Action,"March 14, 2017",3.1.1,3.0 and up	
+Extreme Match,GAME,4.5,696,Varies with device,"100,000+",Free,0,Everyone,Action,"July 5, 2018",1.1.7,4.1 and up	
+Power Rangers Dino Charge,GAME,4.3,194969,30M,"10,000,000+",Free,0,Everyone 10+,Action,"January 29, 2018",1.4.0,4.1 and up	
+Zombie Hunter: Post Apocalypse Survival Games,GAME,4.4,327599,66M,"10,000,000+",Free,0,Teen,Action,"July 28, 2017",2.4.2,2.3.3 and up	
+Agar.io,GAME,4.2,3816799,32M,"100,000,000+",Free,0,Everyone,Action,"July 23, 2018",2.2.8,4.0.3 and up,-,-,GAME/agario.jpg	
+Zombie Hunter King,GAME,4.3,10538,50M,"1,000,000+",Free,0,Mature 17+,Action,"August 1, 2018",1.0.8,2.3 and up	
+Garena Free Fire,GAME,4.5,5476569,53M,"100,000,000+",Free,0,Teen,Action,"August 3, 2018",1.21.0,4.0.3 and up	
+Battlelands Royale,GAME,4.4,105620,61M,"1,000,000+",Free,0,Everyone 10+,Action,"July 16, 2018",0.5.8,4.1 and up	
+Once Upon a Tower,GAME,4.7,37139,49M,"1,000,000+",Free,0,Everyone 10+,Action,"January 24, 2018",8,4.1 and up	
+TEKKENв„ў,GAME,4.2,147791,38M,"5,000,000+",Free,0,Teen,Action,"July 26, 2018",1.3,5.0 and up	
+diep.io,GAME,4.1,347883,20M,"10,000,000+",Free,0,Everyone,Action,"March 16, 2018",1.2.7,4.0.3 and up	
+Arrow.io,GAME,4.5,343263,Varies with device,"10,000,000+",Free,0,Everyone 10+,Action,"August 6, 2018",1.2.6,4.0.3 and up	
+BEYBLADE BURST app,GAME,4.5,216849,Varies with device,"10,000,000+",Free,0,Everyone,Action	Action & Adventure,"July 16, 2018",Varies with device,Varies with device
+Dragon Hills,GAME,4.5,354373,66M,"10,000,000+",Free,0,Everyone 10+,Action,"October 12, 2017",1.2.7,4.1 and up	
+Bus Rush: Subway Edition,GAME,4.1,753043,57M,"100,000,000+",Free,0,Teen,Action,"August 1, 2018",1.15.2,4.0.3 and up	
+Tiny Archers,GAME,4.5,80678,Varies with device,"5,000,000+",Free,0,Mature 17+,Action,"May 25, 2018",Varies with device,Varies with device	
+Metal Soldiers 2,GAME,4.4,153381,Varies with device,"10,000,000+",Free,0,Teen,Action,"June 18, 2018",1.11.2,4.1 and up	
+Runner 3d like,GAME,4.5,559,32M,"100,000+",Free,0,Everyone 10+,Action,"August 3, 2018",1.0.7,4.0 and up	
+War Robots,GAME,4.6,3073251,33M,"50,000,000+",Free,0,Everyone 10+,Action,"July 25, 2018",4.1.1,4.1 and up	
+Dinosaur Simulator: Dino World,GAME,4.0,26649,66M,"5,000,000+",Free,0,Teen,Action,"August 5, 2018",1.2,4.2 and up	
+GUNSHIP BATTLE: Helicopter 3D,GAME,4.3,2151039,75M,"50,000,000+",Free,0,Teen,Action,"August 1, 2018",2.6.61,4.0.3 and up	
+Quiz: Logo game,GAME,4.5,306764,29M,"10,000,000+",Free,0,Everyone,Trivia,"August 3, 2018",6.2,4.0.3 and up	
+Candy Crush Saga,GAME,4.4,22430188,74M,"500,000,000+",Free,0,Everyone,Casual,"July 5, 2018",1.129.0.2,4.1 and up	
+Plants vs. Zombies FREE,GAME,4.4,4067651,69M,"100,000,000+",Free,0,Everyone 10+,Strategy,"July 6, 2018",2.2.00,4.1 and up	
+Block Puzzle,GAME,4.6,59907,7.8M,"5,000,000+",Free,0,Everyone,Puzzle,"March 6, 2018",2.9,2.3 and up	
+Helix Jump,GAME,4.2,1500622,33M,"100,000,000+",Free,0,Everyone,Action,"April 9, 2018",1.0.6,4.1 and up	
+8 Ball Pool,GAME,4.5,14201604,52M,"100,000,000+",Free,0,Everyone,Sports,"July 31, 2018",4.0.0,4.0.3 and up	
+Jewels Legend - Match 3 Puzzle,GAME,4.6,280098,50M,"10,000,000+",Free,0,Everyone,Arcade,"July 20, 2018",2.11.2,4.0.3 and up	
+Bubble Shooter,GAME,4.5,148990,46M,"10,000,000+",Free,0,Everyone,Casual,"July 17, 2018",1.20.1,4.0.3 and up	
+Solitaire,GAME,4.7,154264,12M,"10,000,000+",Free,0,Everyone,Card,"June 8, 2018",Varies with device,Varies with device	
+Bubble Shooter Genies,GAME,4.5,26985,41M,"5,000,000+",Free,0,Everyone,Casual,"June 4, 2018",1.9.1,4.0.3 and up	
+Blossom Blast Saga,GAME,4.5,1125438,63M,"10,000,000+",Free,0,Everyone,Casual,"July 5, 2018",57.0.8,4.0.3 and up	
+Traffic Racer,GAME,4.5,5387781,53M,"100,000,000+",Free,0,Everyone,Racing,"February 27, 2018",2.5,4.1 and up	
+Hill Climb Racing,GAME,4.4,8923847,63M,"100,000,000+",Free,0,Everyone,Racing,"July 2, 2018",1.37.2,4.2 and up	
+Earn to Die 2,GAME,4.6,1327269,99M,"50,000,000+",Free,0,Teen,Racing,"April 12, 2017",1.3,2.3.3 and up	
+Bubble Shooter 2,GAME,4.3,23043,Varies with device,"5,000,000+",Free,0,Everyone,Arcade,"July 25, 2018",3.5,4.1 and up	
+Candy Bomb,GAME,4.4,42145,20M,"10,000,000+",Free,0,Everyone,Casual	Brain Games,"July 4, 2018",2.9.3181,4.0.3 and up
+Flow Free,GAME,4.3,1295625,11M,"100,000,000+",Free,0,Everyone,Puzzle,"April 11, 2018",4.0,4.1 and up	
+Zombie Catchers,GAME,4.7,990796,75M,"10,000,000+",Free,0,Everyone,Action,"May 24, 2018",1.0.27,4.1 and up	
+Gems or jewels ?,GAME,4.7,171448,13M,"10,000,000+",Free,0,Teen,Puzzle,"August 3, 2018",1.0.109,4.0 and up	
+Angry Birds Rio,GAME,4.4,2610680,46M,"100,000,000+",Free,0,Everyone,Arcade,"July 3, 2018",2.6.9,4.1 and up	
+Candy Crush Jelly Saga,GAME,4.3,1300619,78M,"50,000,000+",Free,0,Everyone,Puzzle,"July 20, 2018",2.1.10,4.0 and up	
+Cut the Rope FULL FREE,GAME,4.4,2123793,49M,"100,000,000+",Free,0,Everyone,Puzzle,"July 5, 2018",3.7.2,4.1 and up	
+Jewels Star: OZ adventure,GAME,4.5,21892,14M,"1,000,000+",Free,0,Everyone,Puzzle,"December 29, 2017",1.3,4.0 and up	
+Hungry Shark Evolution,GAME,4.5,6074627,100M,"100,000,000+",Free,0,Teen,Arcade,"July 25, 2018",6.0.0,4.1 and up	
+Power Pop Bubbles,GAME,4.4,104303,Varies with device,"10,000,000+",Free,0,Everyone,Arcade,"August 2, 2018",3.15,4.1 and up	
+Angry Birds Classic,GAME,4.4,5566908,97M,"100,000,000+",Free,0,Everyone,Arcade,"May 24, 2018",7.9.3,4.1 and up	
+Best Fiends - Free Puzzle Game,GAME,4.6,1480182,Varies with device,"10,000,000+",Free,0,Everyone,Casual,"August 2, 2018",5.8.1,Varies with device	
+Hill Climb Racing 2,GAME,4.6,2750645,Varies with device,"100,000,000+",Free,0,Everyone,Racing,"August 2, 2018",1.17.2,4.2 and up	
+Jewels classic Prince,GAME,4.4,47644,15M,"5,000,000+",Free,0,Everyone,Puzzle,"June 15, 2018",2.4.2,4.0 and up	
+Fruit Block - Puzzle Legend,GAME,4.6,125647,33M,"10,000,000+",Free,0,Everyone,Casual,"July 23, 2018",60,4.1 and up	
+Bubble Shooter Space,GAME,4.2,4355,Varies with device,"1,000,000+",Free,0,Everyone,Casual,"July 17, 2017",1.6,2.3 and up	
+Swamp Attack,GAME,4.4,2119235,70M,"50,000,000+",Free,0,Everyone 10+,Action,"June 29, 2018",3.0.1,4.1 and up	
+Stick War: Legacy,GAME,4.6,811040,77M,"10,000,000+",Free,0,Teen,Strategy,"May 10, 2018",1.7.04,4.4 and up	
+Bowmasters,GAME,4.7,1536349,Varies with device,"50,000,000+",Free,0,Teen,Action,"July 23, 2018",2.12.5,4.1 and up	
+Magic Tiles 3,GAME,4.5,592504,Varies with device,"50,000,000+",Free,0,Everyone,Music,"August 3, 2018",5.13.007,4.1 and up	
+Block Puzzle Classic Legend !,GAME,4.2,17044,4.9M,"5,000,000+",Free,0,Everyone,Puzzle,"April 13, 2018",2.9,2.3.3 and up	
+Marble Woka Woka 2018 - Bubble Shooter Match 3,GAME,4.6,155186,Varies with device,"10,000,000+",Free,0,Everyone,Puzzle,"August 3, 2018",1.3.35,4.1 and up	
+Pixel Art: Color by Number Game,GAME,4.7,1125566,25M,"10,000,000+",Free,0,Everyone,Puzzle,"July 17, 2018",3.9.2,4.3 and up	
+Score! Hero,GAME,4.6,5419676,96M,"100,000,000+",Free,0,Everyone,Sports,"June 13, 2018",1.751,4.4 and up	
+Super Jabber Jump 3,GAME,4.3,34494,23M,"5,000,000+",Free,0,Everyone 10+,Arcade,"July 11, 2018",2.5.3182,2.3 and up	
+Rush,GAME,4.6,260651,51M,"10,000,000+",Free,0,Everyone,Arcade,"February 14, 2018",1.1,4.0 and up	
+Jetpack Joyride,GAME,4.4,4638163,96M,"100,000,000+",Free,0,Everyone 10+,Arcade,"July 19, 2018",1.10.12,4.1 and up	
+Zombie Tsunami,GAME,4.4,4921409,Varies with device,"100,000,000+",Free,0,Everyone 10+,Arcade,"June 15, 2018",Varies with device,Varies with device	
+DEAD TARGET: FPS Zombie Apocalypse Survival Games,GAME,4.5,1468638,Varies with device,"50,000,000+",Free,0,Mature 17+,Action,"July 23, 2018",Varies with device,Varies with device	
+Word Search,GAME,4.2,344585,Varies with device,"50,000,000+",Free,0,Everyone,Word,"July 2, 2018",Varies with device,Varies with device	
+Farm Heroes Saga,GAME,4.4,7614407,70M,"100,000,000+",Free,0,Everyone,Casual,"July 26, 2018",5.1.8,2.3 and up	
+Racing in Car 2,GAME,4.3,234110,38M,"50,000,000+",Free,0,Everyone,Racing,"November 22, 2016",1.0,2.3.3 and up	
+Facebook,SOCIAL,4.1,78158306,Varies with device,"1,000,000,000+",Free,0,Teen,Social,"August 3, 2018",Varies with device,Varies with device	
+Instagram,SOCIAL,4.5,66577313,Varies with device,"1,000,000,000+",Free,0,Teen,Social,"July 31, 2018",Varies with device,Varies with device,-,-,SOCIAL/instagram.jpg	
+Facebook Lite,SOCIAL,4.3,8606259,Varies with device,"500,000,000+",Free,0,Teen,Social,"August 1, 2018",Varies with device,Varies with device	
+Messages, Text and Video Chat for Messenger,SOCIAL,4.4,49173,4.0M,"10,000,000+",Free,0,Everyone,Social,"June 4, 2018",1.24,4.1 and up	
+Tumblr,SOCIAL,4.4,2955326,Varies with device,"100,000,000+",Free,0,Mature 17+,Social,"August 1, 2018",Varies with device,Varies with device	
+Social network all in one 2018,SOCIAL,4.3,1403,3.7M,"100,000+",Free,0,Everyone,Social,"January 30, 2018",1.0,4.0 and up	
+Pinterest,SOCIAL,4.6,4305441,Varies with device,"100,000,000+",Free,0,Teen,Social,"August 3, 2018",Varies with device,Varies with device	
+TextNow - free text + calls,SOCIAL,4.4,441189,Varies with device,"10,000,000+",Free,0,Everyone,Social,"August 3, 2018",Varies with device,Varies with device	
+Google+,SOCIAL,4.2,4831125,Varies with device,"1,000,000,000+",Free,0,Teen,Social,"July 26, 2018",Varies with device,Varies with device	
+The Messenger App,SOCIAL,4.4,4919,2.8M,"1,000,000+",Free,0,Everyone,Social,"August 3, 2018",0.1.1,4.1 and up	
+Messenger Pro,SOCIAL,4.4,13762,3.9M,"1,000,000+",Free,0,Everyone,Social,"May 9, 2018",1.0.2,4.1 and up	
+Free Messages, Video, Chat,Text for Messenger Plus,SOCIAL,4.3,6086,3.1M,"1,000,000+",Free,0,Teen,Social,"June 14, 2018",1.0.9,4.3 and up	
+Telegram X,SOCIAL,4.6,70616,Varies with device,"5,000,000+",Free,0,Teen,Social,"July 27, 2018",Varies with device,Varies with device,-,-,SOCIAL/telegram.png	
+Periscope - Live Video,SOCIAL,4.0,479908,15M,"10,000,000+",Free,0,Mature 17+,Social,"July 9, 2018",1.23.3.0,4.4 and up	
+Quora,SOCIAL,4.5,313633,Varies with device,"10,000,000+",Free,0,Teen,Social,"July 25, 2018",Varies with device,Varies with device	
+LinkedIn,SOCIAL,4.2,1225339,Varies with device,"100,000,000+",Free,0,Everyone,Social,"August 2, 2018",4.1.202,5.0 and up	
+Badoo - Free Chat & Dating App,SOCIAL,4.3,3781770,Varies with device,"100,000,000+",Free,0,Mature 17+,Social,"August 2, 2018",Varies with device,Varies with device	
+Free phone calls, free texting SMS on free number,SOCIAL,4.5,412725,35M,"10,000,000+",Free,0,Everyone,Social,"July 31, 2018",3.8.1,4.1 and up	
+Tango - Live Video Broadcast,SOCIAL,4.3,3806669,Varies with device,"100,000,000+",Free,0,Mature 17+,Social,"August 1, 2018",Varies with device,Varies with device	
+MeetMe: Chat & Meet New People,SOCIAL,4.2,1259849,76M,"50,000,000+",Free,0,Mature 17+,Social,"August 3, 2018",Varies with device,4.1 and up	
+Tagged - Meet, Chat & Dating,SOCIAL,4.1,486824,Varies with device,"10,000,000+",Free,0,Mature 17+,Social,"June 21, 2018",Varies with device,Varies with device	
+ooVoo Video Calls, Messaging & Stories,SOCIAL,4.3,1157004,34M,"50,000,000+",Free,0,Everyone,Social,"October 16, 2017",4.2.1,4.3 and up	
+SayHi Chat, Meet New People,SOCIAL,4.2,423105,Varies with device,"10,000,000+",Free,0,Mature 17+,Social,"July 9, 2018",Varies with device,Varies with device	
+Whisper,SOCIAL,4.1,205803,Varies with device,"5,000,000+",Free,0,Teen,Social,"July 18, 2018",Varies with device,Varies with device	
+Tapatalk - 100,000+ Forums,SOCIAL,4.1,285816,Varies with device,"10,000,000+",Free,0,Mature 17+,Social,"June 19, 2018",Varies with device,Varies with device	
+Tumblr,SOCIAL,4.4,2955325,Varies with device,"100,000,000+",Free,0,Mature 17+,Social,"August 1, 2018",Varies with device,Varies with device	
+Snapchat,SOCIAL,4.0,17014705,Varies with device,"500,000,000+",Free,0,Teen,Social,"July 30, 2018",Varies with device,Varies with device,-,-,SOCIAL/snapchat.png
+Instagram,SOCIAL,4.5,66577446,Varies with device,"1,000,000,000+",Free,0,Teen,Social,"July 31, 2018",Varies with device,Varies with device	
+TwitCasting Live,SOCIAL,3.6,14835,Varies with device,"1,000,000+",Free,0,Teen,Social,"August 2, 2018",Varies with device,Varies with device	
+Stream - Live Video Community,SOCIAL,4.1,6388,Varies with device,"500,000+",Free,0,Teen,Social,"December 5, 2017",Varies with device,Varies with device	
+YouNow: Live Stream Video Chat,SOCIAL,4.1,309872,85M,"10,000,000+",Free,0,Teen,Social,"August 3, 2018",14.0.13,4.1 and up	
+Periscope - Live Video,SOCIAL,4.0,479909,15M,"10,000,000+",Free,0,Mature 17+,Social,"July 9, 2018",1.23.3.0,4.4 and up	
+Mirrativ: Live Stream Any App,SOCIAL,4.1,17955,89M,"500,000+",Free,0,Teen,Social,"August 2, 2018",7.23.4,4.1 and up	
+Instagram,SOCIAL,4.5,66577313,Varies with device,"1,000,000,000+",Free,0,Teen,Social,"July 31, 2018",Varies with device,Varies with device	
+Pinterest,SOCIAL,4.6,4305441,Varies with device,"100,000,000+",Free,0,Teen,Social,"August 3, 2018",Varies with device,Varies with device,-,-,SOCIAL/pinterest.png	
+Nextdoor - Local neighborhood news & classifieds,SOCIAL,4.3,51502,20M,"5,000,000+",Free,0,Teen,Social,"July 25, 2018",2.69,5.0 and up	
+SKOUT - Meet, Chat, Go Live,SOCIAL,4.3,1064049,Varies with device,"50,000,000+",Free,0,Mature 17+,Social,"July 28, 2018",Varies with device,Varies with device	
+Gboard - the Google Keyboard,TOOLS,4.2,1859109,Varies with device,"500,000,000+",Free,0,Everyone,Tools,"July 31, 2018",Varies with device,Varies with device	
+Speedtest by Ookla,TOOLS,4.4,1028794,Varies with device,"100,000,000+",Free,0,Everyone,Tools,"July 19, 2018",Varies with device,Varies with device	
+Best Wallpapers QHD,PERSONALIZATION,4.4,294701,5.1M,"10,000,000+",Free,0,Teen,Personalization,"March 17, 2018",2.85,4.0.3 and up	
+Dog Licks Screen Wallpaper,PERSONALIZATION,4.3,63624,10M,"5,000,000+",Free,0,Everyone,Personalization,"November 20, 2017",11.0,4.0.3 and up	
+Waterfall Live Wallpaper,PERSONALIZATION,4.1,112977,13M,"10,000,000+",Free,0,Everyone,Personalization,"May 22, 2018",3.6,4.1 and up	
+Galaxy Live Wallpaper,PERSONALIZATION,4.2,58052,4.0M,"5,000,000+",Free,0,Teen,Personalization,"September 14, 2017",1.1.8,2.3.3 and up	
+Northern Lights FREE (Aurora),PERSONALIZATION,4.1,12180,5.4M,"1,000,000+",Free,0,Everyone,Personalization,"December 24, 2016",1.3,2.1 and up	
+Flowers Live Wallpaper,PERSONALIZATION,4.1,118459,3.3M,"10,000,000+",Free,0,Everyone,Personalization,"October 27, 2017",4.0,4.1 and up	
+Petals 3D live wallpaper,PERSONALIZATION,4.2,112479,4.3M,"10,000,000+",Free,0,Everyone,Personalization,"July 25, 2018",3.0.5,4.2 and up	
+Galactic Core Free Wallpaper,PERSONALIZATION,4.1,69417,853k,"10,000,000+",Free,0,Everyone,Personalization,"May 1, 2014",2.41,2.1 and up	
+LINE Launcher,PERSONALIZATION,4.4,733838,21M,"10,000,000+",Free,0,Everyone,Personalization,"June 29, 2018",2.4.25,4.0.3 and up	
+Asteroids 3D live wallpaper,PERSONALIZATION,4.1,157495,6.4M,"10,000,000+",Free,0,Everyone,Personalization,"July 24, 2018",4.0.0.7,4.4 and up	
+Sun Rise Free Live Wallpaper,PERSONALIZATION,4.3,86481,8.6M,"10,000,000+",Free,0,Everyone,Personalization,"January 31, 2018",4.8.3,4.0 and up	
+Wallpapers HD,PERSONALIZATION,4.6,484981,2.1M,"10,000,000+",Free,0,Everyone,Personalization,"November 28, 2016",1.7.1,3.0 and up	
+Tiger Live Wallpaper,PERSONALIZATION,4.1,77724,7.1M,"5,000,000+",Free,0,Teen,Personalization,"May 31, 2018",2.7.2,4.0 and up	
+ZEDGEв„ў Ringtones & Wallpapers,PERSONALIZATION,4.6,6466641,Varies with device,"100,000,000+",Free,0,Teen,Personalization,"July 19, 2018",Varies with device,Varies with device	
+Backgrounds HD (Wallpapers),PERSONALIZATION,4.6,2390185,Varies with device,"100,000,000+",Free,0,Teen,Personalization,"August 4, 2018",Varies with device,Varies with device	
+MORTAL KOMBAT X,GAME,4.4,3039889,18M,"10,000,000+",Free,0,Mature 17+,Action,"June 27, 2018",1.18.2,4.0 and up	
+Pixel Gun 3D: Survival shooter & Battle Royale,GAME,4.5,4487182,55M,"50,000,000+",Free,0,Teen,Action,"July 4, 2018",15.1.2,4.0.3 and up	
+Dropbox,PRODUCTIVITY,4.4,1860844,61M,"500,000,000+",Free,0,Everyone,Productivity,"August 1, 2018",Varies with device,Varies with device	
+KineMaster вЂ“ Pro Video Editor,VIDEO_PLAYERS,4.5,1013867,32M,"50,000,000+",Free,0,Everyone,Video Players & Editors,"August 3, 2018",4.5.0.10701.GP,4.1 and up	
+Block City Wars + skins export,FAMILY,4.5,762706,28M,"10,000,000+",Free,0,Teen,Simulation,"March 30, 2018",6.7.5,4.0 and up	
+Sniper 3D Gun Shooter: Free Shooting Games - FPS,GAME,4.6,7657490,Varies with device,"100,000,000+",Free,0,Mature 17+,Action,"August 2, 2018",Varies with device,Varies with device	
+Bike Race Free - Top Motorcycle Racing Games,GAME,4.5,2586261,Varies with device,"100,000,000+",Free,0,Everyone,Racing,"July 31, 2018",7.7.9,4.2 and up	
+Dance School Stories - Dance Dreams Come True,FAMILY,4.4,91171,36M,"1,000,000+",Free,0,Everyone,Role Playing,"August 3, 2018",1.0.8,4.1 and up	
+3D Bowling,SPORTS,4.1,1076243,13M,"100,000,000+",Free,0,Everyone,Sports,"January 18, 2018",3.1,2.0.1 and up	
+Plants vs. Zombies FREE,FAMILY,4.4,4064868,69M,"100,000,000+",Free,0,Everyone 10+,Strategy,"July 6, 2018",2.2.00,4.1 and up	
+Dream League Soccer 2018,SPORTS,4.6,9873470,74M,"100,000,000+",Free,0,Everyone,Sports,"July 16, 2018",5.064,4.4 and up	
+Dumb Ways to Die 2: The Games,FAMILY,4.2,1671658,Varies with device,"50,000,000+",Free,0,Teen,Casual,"July 12, 2018",Varies with device,Varies with device	
+Shadow Fight 2 Special Edition,GAME,4.5,10440,86M,"50,000+",Paid,$4.99,Teen,Action,"May 30, 2018",1.0.3,4.1 and up	
+VK,SOCIAL,3.8,5793284,Varies with device,"100,000,000+",Free,0,Mature 17+,Social,"August 3, 2018",Varies with device,Varies with device	
+Clash of Kings : The King Of Fighters version,FAMILY,4.2,2233681,97M,"50,000,000+",Free,0,Teen,Strategy,"August 1, 2018",3.44.0,2.3.3 and up	
+Google Sheets,PRODUCTIVITY,4.3,496397,Varies with device,"100,000,000+",Free,0,Everyone,Productivity,"August 6, 2018",Varies with device,Varies with device	
+Video Downloader - for Instagram Repost App,VIDEO_PLAYERS,4.8,332623,4.6M,"10,000,000+",Free,0,Everyone,Video Players & Editors,"July 27, 2018",1.1.58,4.1 and up

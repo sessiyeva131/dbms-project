@@ -1,0 +1,24 @@
+LOAD DATA
+INFILE 'data_file.txt'
+   INTO TABLE APP_DATASET
+   FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+   TRAILING NULLCOLS
+	(
+	APP_NAME,
+	APP_CATEGORY,
+	APP_RATING,
+	APP_REVIEWS,
+	APP_SIZE,
+	INSTALLS,
+	APP_TYPE,
+	PRICE,
+	CONTENT_RATING,
+	GENRES,
+	LAST_UPDATED,
+	CURRENT_VER,
+	ANDROID_VER,
+	status,
+	reminder,
+	img_file_name filler char(100),
+	img lobfile(img_file_name) TERMINATED by eof
+	)
